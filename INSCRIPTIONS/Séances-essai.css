@@ -3,7 +3,7 @@
 }
 
 .u-section-1 .u-sheet-1 {
-  min-height: 1183px;
+  min-height: 1184px;
 }
 
 .u-section-1 .u-layout-wrap-1 {
@@ -112,38 +112,42 @@
 }
 
 .u-section-1 .u-layout-cell-3 {
-  min-height: 724px;
+  min-height: 726px;
 }
 
 .u-section-1 .u-container-layout-5 {
-  padding: 30px;
+  box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
+  padding: 30px 0;
 }
 
 .u-section-1 .u-text-8 {
-  font-size: 3rem;
-  text-transform: uppercase;
-  font-weight: bold;
-  margin: 0 auto 0 0;
+  font-weight: 700;
+  margin: 29px auto 0;
 }
 
 .u-section-1 .u-form-1 {
-  height: 299px;
-  margin-top: 30px;
-  margin-bottom: 0;
+  height: 432px;
+  width: 532px;
+  margin: 52px auto 0;
 }
 
-.u-section-1 .u-form-group-4 {
-  margin-left: 0;
+.u-section-1 .u-input-1 {
+  text-transform: uppercase;
+}
+
+.u-section-1 .u-input-2 {
+  text-transform: uppercase;
+}
+
+.u-section-1 .u-input-3 {
+  text-transform: uppercase;
 }
 
 .u-section-1 .u-btn-1 {
-  border-style: none;
-  font-weight: 700;
-  text-transform: uppercase;
-  letter-spacing: 1px;
   background-image: none;
-  width: 100%;
-  font-size: 1.125rem;
+  border-style: solid;
+  text-transform: uppercase;
+  letter-spacing: 2px;
 }
 
 .u-section-1 .u-layout-cell-4 {
@@ -242,12 +246,8 @@
     min-height: 646px;
   }
 
-  .u-section-1 .u-text-8 {
-    font-size: 2.25rem;
-  }
-
   .u-section-1 .u-form-1 {
-    height: 453px;
+    width: 450px;
   }
 
   .u-section-1 .u-layout-cell-4 {
@@ -331,15 +331,8 @@
     min-height: 594px;
   }
 
-  .u-section-1 .u-text-8 {
-    font-size: 1.875rem;
-  }
-
   .u-section-1 .u-form-1 {
-    width: 280px;
-    margin-top: 15px;
-    margin-left: 0;
-    margin-right: 0;
+    width: 340px;
   }
 
   .u-section-1 .u-layout-cell-4 {
@@ -416,10 +409,9 @@
     min-height: 604px;
   }
 
-  .u-section-1 .u-form-1 {
-    margin-right: initial;
-    margin-left: initial;
-    width: auto;
+  .u-section-1 .u-container-layout-5 {
+    padding-left: 30px;
+    padding-right: 30px;
   }
 
   .u-section-1 .u-layout-cell-4 {
@@ -499,7 +491,14 @@
   }
 
   .u-section-1 .u-layout-cell-3 {
-    min-height: 588px;
+    min-height: 623px;
+  }
+
+  .u-section-1 .u-form-1 {
+    width: 280px;
+    margin-top: 20px;
+    margin-left: 0;
+    margin-right: 0;
   }
 
   .u-section-1 .u-layout-cell-4 {
@@ -528,4 +527,12 @@
     margin-top: 39px;
     margin-left: auto;
   }
+} .u-section-2 {
+  background-image: none;
+}
+
+.u-section-2 .u-sheet-1 {
+  min-height: 567px;
+}.u-section-3 .u-sheet-1 {
+  min-height: 500px;
 }
