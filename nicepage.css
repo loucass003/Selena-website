@@ -38610,7 +38610,7 @@ a.u-link.u-text-hover-grey-90:hover {
 
 /*end-variables sitestylecss*/
 .u-header .u-sheet-1 {
-  min-height: 269px;
+  min-height: 270px;
 }
 
 .u-header .u-text-1 {
@@ -38624,7 +38624,6 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-header .u-nav-1 {
-  font-weight: 700;
   font-size: 1.25rem;
 }
 
@@ -38652,47 +38651,29 @@ a.u-link.u-text-hover-grey-90:hover {
   text-transform: uppercase;
 }
 
+.u-header .u-menu-2 {
+  margin: 27px auto 5px;
+}
+
 .u-header .u-nav-6 {
+  font-weight: 700;
+  font-size: 1.125rem;
+}
+
+.u-header .u-nav-11 {
   font-size: 1.25rem;
-}
-
-.u-header .u-nav-7 {
-  font-weight: 400;
-  font-size: 1.125rem;
-  text-transform: uppercase;
-}
-
-.u-header .u-nav-8 {
-  font-weight: 400;
-  font-size: 1.125rem;
-  text-transform: uppercase;
-}
-
-.u-header .u-nav-9 {
-  font-weight: 400;
-  font-size: 1.125rem;
-  text-transform: uppercase;
-}
-
-.u-header .u-nav-10 {
-  font-weight: 400;
-  font-size: 1.125rem;
-  text-transform: uppercase;
 }
 @media (max-width: 1199px) {
   .u-header .u-menu-1 {
-    margin-bottom: 31px;
+    margin-bottom: 0;
   }
 
-  .u-header .u-nav-1 {
-    font-size: 1.125rem;
+  .u-header .u-menu-2 {
+    margin-top: 9px;
+    margin-bottom: 23px;
   }
 }
 @media (max-width: 991px) {
-  .u-header .u-sheet-1 {
-    min-height: 118px;
-  }
-
   .u-header .u-text-1 {
     font-size: 3rem;
     width: auto;
