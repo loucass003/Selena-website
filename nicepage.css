@@ -38647,13 +38647,13 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-header .u-nav-5 {
-  font-size: 1.25rem;
-}
-
-.u-header .u-nav-6 {
   font-weight: 400;
   font-size: 1.125rem;
   text-transform: uppercase;
+}
+
+.u-header .u-nav-6 {
+  font-size: 1.25rem;
 }
 
 .u-header .u-nav-7 {
@@ -38663,6 +38663,18 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-header .u-nav-8 {
+  font-weight: 400;
+  font-size: 1.125rem;
+  text-transform: uppercase;
+}
+
+.u-header .u-nav-9 {
+  font-weight: 400;
+  font-size: 1.125rem;
+  text-transform: uppercase;
+}
+
+.u-header .u-nav-10 {
   font-weight: 400;
   font-size: 1.125rem;
   text-transform: uppercase;
