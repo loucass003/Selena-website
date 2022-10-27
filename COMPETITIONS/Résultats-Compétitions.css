@@ -208,11 +208,11 @@
 
 @media (max-width: 575px) {
    .u-section-1 {
-    min-height: 576px;
+    min-height: 535px;
   }
 
   .u-section-1 .u-layout-wrap-1 {
-    margin-top: 41px;
+    margin-top: 1px;
     margin-bottom: 60px;
     width: auto;
     margin-right: initial;
