@@ -9,25 +9,25 @@
 
 @media (max-width: 1199px) {
   .u-section-2 .u-sheet-1 {
-    min-height: 398px;
+    min-height: 393px;
   }
 }
 
 @media (max-width: 991px) {
   .u-section-2 .u-sheet-1 {
-    min-height: 305px;
+    min-height: 301px;
   }
 }
 
 @media (max-width: 767px) {
   .u-section-2 .u-sheet-1 {
-    min-height: 229px;
+    min-height: 226px;
   }
 }
 
 @media (max-width: 575px) {
   .u-section-2 .u-sheet-1 {
-    min-height: 144px;
+    min-height: 142px;
   }
 } .u-section-3 {
   background-image: none;
