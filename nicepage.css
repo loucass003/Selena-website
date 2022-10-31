@@ -39403,25 +39403,30 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 
   .u-footer .u-layout-cell-1 {
-    min-height: 129px;
+    min-height: 168px;
+  }
+
+  .u-footer .u-container-layout-1 {
+    padding-top: 0;
+    padding-bottom: 0;
   }
 
   .u-footer .u-position-1 {
-    width: 280px;
+    margin-top: 57px;
   }
 
   .u-footer .u-text-3 {
-    margin-top: -32px;
+    margin: -25px 33px -12px;
   }
 
   .u-footer .u-layout-cell-2 {
-    min-height: 98px;
+    min-height: 266px;
   }
 
   .u-footer .u-image-1 {
-    width: 98px;
+    width: 97px;
     height: 74px;
-    margin-top: 18px;
+    margin-top: 10px;
     margin-left: auto;
   }
 
