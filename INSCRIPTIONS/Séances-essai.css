@@ -1,5 +1,6 @@
  .u-section-1 {
   background-image: url("/images/tlchargement.jpeg");
+  background-position: 50% 50%;
 }
 
 .u-section-1 .u-sheet-1 {
@@ -84,12 +85,12 @@
 }
 
 .u-section-3 .u-sheet-1 {
-  min-height: 2079px;
+  min-height: 1234px;
 }
 
 .u-section-3 .u-layout-wrap-1 {
   margin-top: 49px;
-  margin-bottom: 60px;
+  margin-bottom: 30px;
 }
 
 .u-section-3 .u-layout-cell-1 {
@@ -260,6 +261,10 @@
 }
 
 @media (max-width: 1199px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 1200px;
+  }
+
   .u-section-3 .u-layout-wrap-1 {
     margin-bottom: 40px;
   }
@@ -351,9 +356,12 @@
 }
 
 @media (max-width: 991px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 1327px;
+  }
+
   .u-section-3 .u-layout-wrap-1 {
     margin-top: 63px;
-    margin-bottom: 31px;
   }
 
   .u-section-3 .u-layout-cell-1 {
@@ -408,7 +416,10 @@
 
   .u-section-3 .u-video-1 {
     height: 265px;
-    width: 340px;
+    margin-top: 0;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
   }
 
   .u-section-3 .u-layout-cell-3 {
@@ -437,8 +448,12 @@
 }
 
 @media (max-width: 767px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 2079px;
+  }
+
   .u-section-3 .u-layout-wrap-1 {
-    margin-top: 17px;
+    margin-top: 32px;
     margin-bottom: 60px;
   }
 
