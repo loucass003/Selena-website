@@ -24,8 +24,6 @@
 }
 
 .u-section-1 .u-video-2 {
-  height: 314px;
-  position: absolute;
   top: 314px;
   left: 0;
 }
@@ -60,7 +58,7 @@
   }
 
   .u-section-1 .u-video-2 {
-    height: auto;
+    position: absolute;
   }
 
   .u-section-1 .u-layout-cell-2 {
@@ -161,8 +159,6 @@
 }
 
 .u-section-2 .u-video-2 {
-  height: 314px;
-  position: absolute;
   top: 314px;
   left: 0;
 }
@@ -197,7 +193,7 @@
   }
 
   .u-section-2 .u-video-2 {
-    height: auto;
+    position: absolute;
   }
 
   .u-section-2 .u-layout-cell-2 {
