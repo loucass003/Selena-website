@@ -74,7 +74,7 @@
 }
 
 .u-section-4 .u-gallery-1 {
-  height: 972px;
+  height: 1944px;
   margin-top: 82px;
   margin-bottom: 0;
 }
@@ -153,12 +153,20 @@
 
 @media (max-width: 575px) {
   .u-section-4 .u-sheet-1 {
-    min-height: 1113px;
+    min-height: 1898px;
   }
 
   .u-section-4 .u-gallery-1 {
-    margin-top: -106px;
+    margin-top: -569px;
     margin-bottom: 60px;
+  }
+
+  .u-section-4 .u-carousel-control-1 {
+    padding: 9px;
+  }
+
+  .u-section-4 .u-carousel-control-2 {
+    padding: 9px;
   }
 } .u-section-5 {
   margin-top: 20px;
