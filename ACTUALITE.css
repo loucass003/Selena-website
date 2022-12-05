@@ -77,7 +77,6 @@
     margin-bottom: 24px;
   }
 } .u-section-3 {
-  min-height: 100px;
   background-image: none;
 }
 
@@ -86,71 +85,93 @@
 }
 
 .u-section-3 .u-layout-wrap-1 {
-  margin: 0 auto 0 0;
+  margin-top: 60px;
+  margin-bottom: 60px;
+  position: relative;
 }
 
-.u-section-3 .u-image-1 {
-  min-height: 594px;
-  background-image: url("/images/IMG_20221110_062339.jpg");
-  background-position: 50% 50%;
+.u-section-3 .u-layout-cell-1 {
+  min-height: 415px;
 }
 
 .u-section-3 .u-container-layout-1 {
-  padding: 30px 60px;
+  padding: 30px 17px;
 }
 
-.u-section-3 .u-image-2 {
-  min-height: 594px;
-  background-image: url("/images/articletfromorantin.PNG");
-  background-position: 50% 50%;
+.u-section-3 .u-btn-1 {
+  background-image: none;
+  font-weight: 700;
+  font-size: 1.25rem;
+  margin: 94px 55px 0 auto;
+}
+
+.u-section-3 .u-btn-2 {
+  font-size: 1.25rem;
+  font-weight: 700;
+  margin: 22px 36px 0 auto;
+}
+
+.u-section-3 .u-image-1 {
+  width: 255px;
+  height: 355px;
+  margin: -220px auto 0 0;
+}
+
+.u-section-3 .u-layout-cell-2 {
+  min-height: 415px;
 }
 
 .u-section-3 .u-container-layout-2 {
-  padding: 30px 60px;
+  padding: 30px;
 }
 
 @media (max-width: 1199px) {
+   .u-section-3 {
+    min-height: 27px;
+  }
+
   .u-section-3 .u-sheet-1 {
-    min-height: 100px;
+    min-height: 521px;
   }
 
-  .u-section-3 .u-layout-wrap-1 {
-    margin-right: initial;
-    margin-left: initial;
+  .u-section-3 .u-layout-cell-1 {
+    min-height: 342px;
   }
 
-  .u-section-3 .u-image-1 {
-    min-height: 490px;
+  .u-section-3 .u-btn-1 {
+    margin-right: 0;
   }
 
-  .u-section-3 .u-image-2 {
-    min-height: 490px;
+  .u-section-3 .u-btn-2 {
+    margin-right: 0;
+  }
+
+  .u-section-3 .u-layout-cell-2 {
+    min-height: 342px;
   }
 }
 
 @media (max-width: 991px) {
-  .u-section-3 .u-image-1 {
-    min-height: 375px;
+  .u-section-3 .u-sheet-1 {
+    min-height: 432px;
   }
 
-  .u-section-3 .u-container-layout-1 {
-    padding-left: 30px;
-    padding-right: 30px;
+  .u-section-3 .u-layout-cell-1 {
+    min-height: 100px;
   }
 
-  .u-section-3 .u-image-2 {
-    min-height: 375px;
-  }
-
-  .u-section-3 .u-container-layout-2 {
-    padding-left: 30px;
-    padding-right: 30px;
+  .u-section-3 .u-layout-cell-2 {
+    min-height: 262px;
   }
 }
 
 @media (max-width: 767px) {
-  .u-section-3 .u-image-1 {
-    min-height: 563px;
+   .u-section-3 {
+    min-height: 254px;
+  }
+
+  .u-section-3 .u-sheet-1 {
+    min-height: 659px;
   }
 
   .u-section-3 .u-container-layout-1 {
@@ -158,8 +179,8 @@
     padding-right: 10px;
   }
 
-  .u-section-3 .u-image-2 {
-    min-height: 563px;
+  .u-section-3 .u-layout-cell-2 {
+    min-height: 393px;
   }
 
   .u-section-3 .u-container-layout-2 {
@@ -169,12 +190,16 @@
 }
 
 @media (max-width: 575px) {
-  .u-section-3 .u-image-1 {
-    min-height: 354px;
+   .u-section-3 {
+    min-height: 113px;
   }
 
-  .u-section-3 .u-image-2 {
-    min-height: 354px;
+  .u-section-3 .u-sheet-1 {
+    min-height: 518px;
+  }
+
+  .u-section-3 .u-layout-cell-2 {
+    min-height: 247px;
   }
 } .u-section-4 {
   min-height: 100px;
@@ -191,7 +216,7 @@
 
 .u-section-4 .u-image-1 {
   min-height: 594px;
-  background-image: url("/images/Capture.PNG");
+  background-image: url("/images/IMG_20221110_062339.jpg");
   background-position: 50% 50%;
 }
 
@@ -201,16 +226,12 @@
 
 .u-section-4 .u-image-2 {
   min-height: 594px;
-  background-image: url("/images/HalloweenHalloweenPartyInstagramStory-FaitavecPosterMyWall3.jpg");
+  background-image: url("/images/articletfromorantin.PNG");
   background-position: 50% 50%;
 }
 
 .u-section-4 .u-container-layout-2 {
   padding: 30px 60px;
-}
-
-.u-section-4 .u-text-1 {
-  margin: 209px auto 0;
 }
 
 @media (max-width: 1199px) {
@@ -280,6 +301,110 @@
   .u-section-4 .u-image-2 {
     min-height: 354px;
   }
-}.u-section-5 .u-sheet-1 {
+} .u-section-5 {
+  min-height: 100px;
+  background-image: none;
+}
+
+.u-section-5 .u-sheet-1 {
+  min-height: 594px;
+}
+
+.u-section-5 .u-layout-wrap-1 {
+  margin: 0 auto 0 0;
+}
+
+.u-section-5 .u-image-1 {
+  min-height: 594px;
+  background-image: url("/images/Capture.PNG");
+  background-position: 50% 50%;
+}
+
+.u-section-5 .u-container-layout-1 {
+  padding: 30px 60px;
+}
+
+.u-section-5 .u-image-2 {
+  min-height: 594px;
+  background-image: url("/images/HalloweenHalloweenPartyInstagramStory-FaitavecPosterMyWall3.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-5 .u-container-layout-2 {
+  padding: 30px 60px;
+}
+
+.u-section-5 .u-text-1 {
+  margin: 209px auto 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-5 .u-sheet-1 {
+    min-height: 100px;
+  }
+
+  .u-section-5 .u-layout-wrap-1 {
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-5 .u-image-1 {
+    min-height: 490px;
+  }
+
+  .u-section-5 .u-image-2 {
+    min-height: 490px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-5 .u-image-1 {
+    min-height: 375px;
+  }
+
+  .u-section-5 .u-container-layout-1 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+
+  .u-section-5 .u-image-2 {
+    min-height: 375px;
+  }
+
+  .u-section-5 .u-container-layout-2 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-5 .u-image-1 {
+    min-height: 563px;
+  }
+
+  .u-section-5 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-5 .u-image-2 {
+    min-height: 563px;
+  }
+
+  .u-section-5 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-5 .u-image-1 {
+    min-height: 354px;
+  }
+
+  .u-section-5 .u-image-2 {
+    min-height: 354px;
+  }
+}.u-section-6 .u-sheet-1 {
   min-height: 66px;
 }

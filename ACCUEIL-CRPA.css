@@ -119,6 +119,17 @@
   padding: 52px;
 }
 
+.u-section-4 .u-carousel-item-3 {
+  margin-right: 0;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.u-section-4 .u-over-slide-3 {
+  min-height: 100px;
+  padding: 52px;
+}
+
 .u-section-4 .u-carousel-control-1 {
   position: absolute;
   left: 10px;
