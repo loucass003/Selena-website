@@ -101,16 +101,12 @@
 
 .u-section-3 .u-image-2 {
   min-height: 594px;
-  background-image: url("/images/tlchargement1.png");
+  background-image: url("/images/articletfromorantin.PNG");
   background-position: 50% 50%;
 }
 
 .u-section-3 .u-container-layout-2 {
   padding: 30px 60px;
-}
-
-.u-section-3 .u-text-1 {
-  margin: 209px auto 0;
 }
 
 @media (max-width: 1199px) {
