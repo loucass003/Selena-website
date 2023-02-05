@@ -66,7 +66,7 @@
     width: auto;
   }
 }.u-section-4 .u-sheet-1 {
-  min-height: 907px;
+  min-height: 1127px;
 }
 
 .u-section-4 .u-layout-wrap-1 {
@@ -115,10 +115,6 @@
 }
 
 @media (max-width: 1199px) {
-  .u-section-4 .u-sheet-1 {
-    min-height: 762px;
-  }
-
   .u-section-4 .u-image-1 {
     min-height: 679px;
   }
@@ -129,8 +125,9 @@
 }
 
 @media (max-width: 991px) {
-  .u-section-4 .u-sheet-1 {
-    min-height: 603px;
+  .u-section-4 .u-layout-wrap-1 {
+    margin-top: 83px;
+    margin-bottom: 10px;
   }
 
   .u-section-4 .u-image-1 {
@@ -143,10 +140,6 @@
 }
 
 @media (max-width: 767px) {
-  .u-section-4 .u-sheet-1 {
-    min-height: 963px;
-  }
-
   .u-section-4 .u-image-1 {
     min-height: 780px;
   }
@@ -156,19 +149,53 @@
     padding-right: 10px;
   }
 
+  .u-section-4 .u-layout-cell-2 {
+    min-height: 588px;
+  }
+
   .u-section-4 .u-container-layout-2 {
     padding-left: 10px;
     padding-right: 10px;
   }
+
+  .u-section-4 .u-btn-2 {
+    margin-top: 96px;
+  }
+
+  .u-section-4 .u-btn-3 {
+    margin-top: 97px;
+  }
 }
 
 @media (max-width: 575px) {
-  .u-section-4 .u-sheet-1 {
-    min-height: 674px;
+  .u-section-4 .u-layout-wrap-1 {
+    margin-bottom: 0;
   }
 
   .u-section-4 .u-image-1 {
-    min-height: 491px;
+    min-height: 500px;
+  }
+
+  .u-section-4 .u-layout-cell-2 {
+    min-height: 554px;
+  }
+
+  .u-section-4 .u-container-layout-2 {
+    padding-top: 13px;
+    padding-bottom: 13px;
+  }
+
+  .u-section-4 .u-btn-1 {
+    margin-top: 0;
+  }
+
+  .u-section-4 .u-btn-2 {
+    margin-top: 46px;
+  }
+
+  .u-section-4 .u-btn-3 {
+    margin-top: 44px;
+    margin-right: 26px;
   }
 } .u-section-5 {
   background-image: none;
@@ -229,13 +256,13 @@
 
 @media (max-width: 1199px) {
   .u-section-5 .u-sheet-1 {
-    min-height: 1145px;
+    min-height: 1176px;
   }
 
   .u-section-5 .u-gallery-1 {
     height: 1194px;
     width: 631px;
-    margin-top: -18px;
+    margin-top: 6px;
     margin-right: auto;
   }
 }
@@ -276,9 +303,15 @@
 }
 
 @media (max-width: 575px) {
+  .u-section-5 .u-sheet-1 {
+    min-height: 1195px;
+  }
+
   .u-section-5 .u-gallery-1 {
-    width: 220px;
-    margin-top: -147px;
+    margin-top: -253px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
   }
 
   .u-section-5 .u-carousel-control-1 {
