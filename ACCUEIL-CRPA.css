@@ -335,9 +335,10 @@
 
 .u-section-5 .u-social-icons-1 {
   min-height: 16px;
-  width: 464px;
-  min-width: 316px;
-  margin: 77px auto 0 24px;
+  width: 400px;
+  min-width: 232px;
+  height: 58px;
+  margin: 76px auto 0 47px;
 }
 
 .u-section-5 .u-icon-1 {
@@ -444,7 +445,6 @@
   }
 
   .u-section-5 .u-social-icons-1 {
-    min-width: 232px;
     --animation-custom_in-translate_y: -300px;
     --animation-custom_in-rotate: 180deg;
     --animation-custom_in-scale: 1;
