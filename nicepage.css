@@ -42175,7 +42175,7 @@ a.u-link.u-text-hover-grey-90:hover {
 
 /*end-variables sitestylecss*/
 .u-header .u-sheet-1 {
-  min-height: 239px;
+  min-height: 177px;
 }
 
 .u-header .u-text-1 {
@@ -42208,14 +42208,14 @@ a.u-link.u-text-hover-grey-90:hover {
 @media (max-width: 575px) {
   .u-header .u-text-1 {
     font-size: 1.25rem;
-    width: 250px;
-    margin-top: 33px;
+    width: 269px;
+    margin-top: 42px;
     margin-left: auto;
     margin-right: auto;
   }
 
   .u-header .u-menu-1 {
-    margin: 45px auto 60px;
+    margin: 8px auto 49px;
   }
 }
 .u-footer .u-sheet-1 {
