@@ -1,5 +1,6 @@
  .u-section-1 {
   background-image: url("/images/0H3A606322.JPG");
+  background-position: 50% 50%;
 }
 
 .u-section-1 .u-sheet-1 {
@@ -7,10 +8,6 @@
 }
 
 @media (max-width: 1199px) {
-   .u-section-1 {
-    background-position: 50% 50%;
-  }
-
   .u-section-1 .u-sheet-1 {
     min-height: 500px;
   }
@@ -29,10 +26,6 @@
 }
 
 @media (max-width: 575px) {
-   .u-section-1 {
-    background-position: 12.33% 50%;
-  }
-
   .u-section-1 .u-sheet-1 {
     min-height: 207px;
   }
