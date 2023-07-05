@@ -57,10 +57,12 @@
 }
 
 .u-section-2 .u-container-layout-2 {
+  box-shadow: 2px 2px 8px 0px rgba(128,128,128,1);
   padding: 30px 22px;
 }
 
 .u-section-2 .u-text-1 {
+  font-size: 3rem;
   margin: 19px 8px 0 0;
 }
 
