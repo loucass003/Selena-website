@@ -42175,17 +42175,17 @@ a.u-link.u-text-hover-grey-90:hover {
 
 /*end-variables sitestylecss*/
 .u-header .u-sheet-1 {
-  min-height: 187px;
+  min-height: 347px;
 }
 
 .u-header .u-text-1 {
   background-image: none;
-  font-size: 3.75rem;
-  margin: 14px 34px 42px;
+  font-size: 4.5rem;
+  margin: 56px 0 0;
 }
 
 .u-header .u-menu-1 {
-  margin: 30px auto 59px;
+  margin: 17px 0 35px;
 }
 
 .u-header .u-nav-1 {
@@ -42197,20 +42197,20 @@ a.u-link.u-text-hover-grey-90:hover {
   font-size: 1.25rem;
   margin: 248px 0 0 auto;
 }
-@media (max-width: 1199px) {
-  .u-header .u-text-1 {
-    margin-left: 0;
-    margin-right: 0;
-  }
-}
+
 
 
 @media (max-width: 575px) {
   .u-header .u-text-1 {
-    font-size: 1.25rem;
-    width: auto;
-    margin-top: 20px;
-    margin-bottom: 0;
+    font-size: 1.125rem;
+    width: 231px;
+    margin-top: 75px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .u-header .u-menu-1 {
+    margin: 41px auto 60px;
   }
 }
 .u-footer .u-sheet-1 {
