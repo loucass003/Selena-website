@@ -269,6 +269,12 @@
   .u-section-8 .u-sheet-1 {
     min-height: 400px;
   }
+}
+
+@media (max-width: 575px) {
+  .u-section-8 .u-sheet-1 {
+    min-height: 244px;
+  }
 } .u-section-9 {
   margin-top: 20px;
   background-image: none;
