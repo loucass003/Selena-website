@@ -16,10 +16,6 @@
 }
 
 @media (max-width: 991px) {
-   .u-section-3 {
-    background-position: 50% 50%;
-  }
-
   .u-section-3 .u-sheet-1 {
     min-height: 301px;
   }
@@ -263,12 +259,6 @@
 
 .u-section-7 .u-sheet-1 {
   min-height: 400px;
-}
-
-@media (max-width: 991px) {
-   .u-section-7 {
-    background-position: 50% 50%;
-  }
 } .u-section-8 {
   margin-top: 20px;
 }
