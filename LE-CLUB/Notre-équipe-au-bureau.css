@@ -119,6 +119,10 @@
 }
 
 @media (max-width: 1199px) {
+  .u-section-2 .u-text-1 {
+    font-size: 3rem;
+  }
+
   .u-section-2 .u-list-1 {
     width: 940px;
     margin-right: 0;
@@ -356,6 +360,12 @@
 
 .u-section-3 .u-text-7 {
   margin: 20px 0 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-3 .u-text-1 {
+    font-size: 3rem;
+  }
 }
 
 @media (max-width: 991px) {

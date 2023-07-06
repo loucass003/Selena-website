@@ -154,10 +154,6 @@
   padding: 30px 60px;
 }
 
-.u-section-3 .u-text-2 {
-  margin: 314px 0 0;
-}
-
 @media (max-width: 1199px) {
   .u-section-3 .u-sheet-1 {
     min-height: 606px;
@@ -206,6 +202,10 @@
     min-height: 1236px;
   }
 
+  .u-section-3 .u-text-1 {
+    font-size: 1.875rem;
+  }
+
   .u-section-3 .u-image-1 {
     min-height: 561px;
   }
@@ -228,6 +228,10 @@
 @media (max-width: 575px) {
   .u-section-3 .u-sheet-1 {
     min-height: 822px;
+  }
+
+  .u-section-3 .u-text-1 {
+    font-size: 1.25rem;
   }
 
   .u-section-3 .u-image-1 {

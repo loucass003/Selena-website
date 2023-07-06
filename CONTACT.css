@@ -1,9 +1,10 @@
  .u-section-1 {
   background-image: url("/images/860_gettyimages-598221791.jpg");
+  background-position: 50% 50%;
 }
 
 .u-section-1 .u-sheet-1 {
-  min-height: 984px;
+  min-height: 1009px;
 }
 
 .u-section-1 .u-list-1 {
@@ -97,7 +98,7 @@
 
 .u-section-1 .u-layout-wrap-1 {
   margin-top: 39px;
-  margin-bottom: 0;
+  margin-bottom: 25px;
 }
 
 .u-section-1 .u-layout-cell-1 {
@@ -124,10 +125,6 @@
 }
 
 @media (max-width: 1199px) {
-   .u-section-1 {
-    background-position: 50% 50%;
-  }
-
   .u-section-1 .u-sheet-1 {
     min-height: 664px;
   }
