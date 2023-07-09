@@ -297,12 +297,12 @@
 
 @media (max-width: 575px) {
   .u-section-3 .u-sheet-1 {
-    min-height: 216px;
+    min-height: 242px;
   }
 
   .u-section-3 .u-table-1 {
     margin-top: 16px;
-    margin-bottom: 42px;
+    margin-bottom: 60px;
   }
 
   .u-section-3 .u-table-cell-1 {
@@ -522,7 +522,7 @@
   .u-section-4 .u-group-1 {
     min-height: 50px;
     width: 276px;
-    margin-top: -531px;
+    margin-top: -496px;
   }
 
   .u-section-4 .u-text-2 {
