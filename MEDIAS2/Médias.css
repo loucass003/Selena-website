@@ -153,6 +153,7 @@
 .u-section-3 .u-image-1 {
   min-height: 400px;
   background-image: url("/images/image.jpg");
+  background-position: 50% 50%;
 }
 
 .u-section-3 .u-container-layout-1 {
@@ -432,6 +433,7 @@
 .u-section-5 .u-image-2 {
   min-height: 400px;
   background-image: url("/images/ROMOR.png");
+  background-position: 50% 50%;
 }
 
 .u-section-5 .u-container-layout-2 {
