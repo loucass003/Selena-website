@@ -42181,11 +42181,11 @@ a.u-link.u-text-hover-grey-90:hover {
 .u-header .u-text-1 {
   background-image: none;
   font-size: 4.5rem;
-  margin: 43px 104px 0;
+  margin: 36px 104px 0;
 }
 
 .u-header .u-menu-1 {
-  margin: 0 0 60px;
+  margin: 7px 0 60px;
 }
 
 .u-header .u-nav-1 {
@@ -42203,13 +42203,17 @@ a.u-link.u-text-hover-grey-90:hover {
 @media (max-width: 575px) {
   .u-header .u-text-1 {
     font-size: 1.125rem;
-    margin-top: 75px;
+    width: auto;
+    margin-top: 48px;
+    margin-left: auto;
+    margin-right: auto;
   }
 
   .u-header .u-menu-1 {
-    margin-top: 41px;
+    width: auto;
+    margin-top: -34px;
+    margin-right: 16px;
     margin-left: auto;
-    margin-right: auto;
   }
 }
 .u-footer .u-sheet-1 {
