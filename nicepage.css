@@ -42175,17 +42175,17 @@ a.u-link.u-text-hover-grey-90:hover {
 
 /*end-variables sitestylecss*/
 .u-header .u-sheet-1 {
-  min-height: 779px;
+  min-height: 533px;
 }
 
 .u-header .u-text-1 {
   background-image: none;
-  font-size: 4.5rem;
-  margin: 119px auto 0 98px;
+  font-size: 3.75rem;
+  margin: 123px auto 0;
 }
 
 .u-header .u-menu-1 {
-  margin: 183px 0 60px;
+  margin: 179px 0 20px;
 }
 
 .u-header .u-nav-1 {
@@ -42202,17 +42202,18 @@ a.u-link.u-text-hover-grey-90:hover {
 
 @media (max-width: 575px) {
   .u-header .u-sheet-1 {
-    min-height: 84px;
+    min-height: 108px;
   }
 
   .u-header .u-text-1 {
-    font-size: 0.875rem;
-    margin-top: 34px;
+    font-size: 0.75rem;
+    width: auto;
+    margin-top: 37px;
   }
 
   .u-header .u-menu-1 {
     width: auto;
-    margin: -30px 19px 15px auto;
+    margin: -26px 18px 37px auto;
   }
 }
 .u-footer .u-sheet-1 {
