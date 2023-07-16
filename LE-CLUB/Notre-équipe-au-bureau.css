@@ -65,6 +65,7 @@
   background-image: url("/images/Avatar-Femme.png");
   margin-bottom: 0;
   margin-top: -14px;
+  background-position: 50% 50%;
 }
 
 .u-section-2 .u-text-3 {
@@ -91,6 +92,7 @@
   background-image: url("/images/Avatar-Femme.png");
   margin-bottom: 0;
   margin-top: -14px;
+  background-position: 50% 50%;
 }
 
 .u-section-2 .u-text-5 {
@@ -117,6 +119,7 @@
   background-image: url("/images/Avatar-Femme.png");
   margin-bottom: 0;
   margin-top: -14px;
+  background-position: 50% 50%;
 }
 
 .u-section-2 .u-text-7 {
@@ -144,10 +147,6 @@
     padding-right: 0;
   }
 
-  .u-section-2 .u-image-1 {
-    background-position: 50% 50%;
-  }
-
   .u-section-2 .u-text-3 {
     width: auto;
   }
@@ -158,10 +157,6 @@
     padding-right: 0;
   }
 
-  .u-section-2 .u-image-2 {
-    background-position: 50% 50%;
-  }
-
   .u-section-2 .u-text-5 {
     width: auto;
   }
@@ -170,10 +165,6 @@
     padding-top: 0;
     padding-left: 0;
     padding-right: 0;
-  }
-
-  .u-section-2 .u-image-3 {
-    background-position: 50% 50%;
   }
 
   .u-section-2 .u-text-7 {
