@@ -1,13 +1,16 @@
  .u-section-2 {
   background-image: url("/images/278580474_3338813076388653_2849525958477430106_n.jpg");
-  background-position: 50% 50%;
 }
 
 .u-section-2 .u-sheet-1 {
-  min-height: 859px;
+  min-height: 488px;
 }
 
 @media (max-width: 1199px) {
+   .u-section-2 {
+    background-position: 50% 50%;
+  }
+
   .u-section-2 .u-sheet-1 {
     min-height: 708px;
   }
@@ -27,7 +30,7 @@
 
 @media (max-width: 575px) {
   .u-section-2 .u-sheet-1 {
-    min-height: 366px;
+    min-height: 190px;
   }
 }.u-section-3 .u-sheet-1 {
   min-height: 296px;
@@ -248,7 +251,6 @@
   }
 } .u-section-6 {
   background-image: url("/images/326384753_1177218949582795_556193191803923100_n.jpg");
-  background-position: 50% 50%;
 }
 
 .u-section-6 .u-sheet-1 {
@@ -256,6 +258,10 @@
 }
 
 @media (max-width: 1199px) {
+   .u-section-6 {
+    background-position: 50% 50%;
+  }
+
   .u-section-6 .u-sheet-1 {
     min-height: 427px;
   }
@@ -275,6 +281,6 @@
 
 @media (max-width: 575px) {
   .u-section-6 .u-sheet-1 {
-    min-height: 154px;
+    min-height: 178px;
   }
 }
