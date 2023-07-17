@@ -619,8 +619,8 @@
 }
 
 .u-section-4 .u-layout-wrap-1 {
-  width: 1143px;
-  margin: 34px auto 19px calc(((100% - 1140px) / 2) + -52px);
+  width: calc(((100% - 1140px) / 2) + 1091px);
+  margin: 34px auto 19px 0;
 }
 
 .u-section-4 .u-image-1 {
@@ -786,9 +786,9 @@
   }
 
   .u-section-4 .u-layout-wrap-1 {
-    width: 540px;
+    width: calc(((100% - 540px) / 2) + 540px);
     margin-top: 16px;
-    margin-left: calc(((100% - 540px) / 2));
+    margin-left: 0;
     margin-bottom: 10px;
   }
 
@@ -827,10 +827,9 @@
   }
 
   .u-section-4 .u-layout-wrap-1 {
-    width: 340px;
+    width: calc(((100% - 340px) / 2) + 340px);
     margin-top: 26px;
     margin-bottom: 26px;
-    margin-left: calc(((100% - 340px) / 2));
   }
 
   .u-section-4 .u-image-1 {
@@ -879,8 +878,8 @@
 }
 
 .u-section-5 .u-layout-wrap-1 {
-  width: 1143px;
-  margin: 35px auto 35px calc(((100% - 1140px) / 2) + -54px);
+  width: calc(((100% - 1140px) / 2) + 1089px);
+  margin: 35px auto 35px 0;
 }
 
 .u-section-5 .u-image-1 {
@@ -1049,7 +1048,7 @@
 
   .u-section-5 .u-layout-wrap-1 {
     width: 513px;
-    margin-left: calc(((100% - 540px) / 2));
+    margin-left: 0;
   }
 
   .u-section-5 .u-image-1 {
@@ -1087,9 +1086,8 @@
   }
 
   .u-section-5 .u-layout-wrap-1 {
-    width: 340px;
+    width: calc(((100% - 340px) / 2) + 340px);
     margin-top: 25px;
-    margin-left: calc(((100% - 340px) / 2));
     margin-bottom: 25px;
   }
 
@@ -1139,8 +1137,8 @@
 }
 
 .u-section-6 .u-layout-wrap-1 {
-  width: 1143px;
-  margin: 24px auto 24px calc(((100% - 1140px) / 2) + -52px);
+  width: calc(((100% - 1140px) / 2) + 1092px);
+  margin: 24px auto 23px 0;
 }
 
 .u-section-6 .u-image-1 {
@@ -1302,10 +1300,10 @@
   }
 
   .u-section-6 .u-layout-wrap-1 {
-    width: 540px;
+    width: calc(((100% - 540px) / 2) + 540px);
     margin-top: 35px;
     margin-bottom: 35px;
-    margin-left: calc(((100% - 540px) / 2));
+    margin-left: 0;
   }
 
   .u-section-6 .u-image-1 {
@@ -1343,10 +1341,9 @@
   }
 
   .u-section-6 .u-layout-wrap-1 {
-    width: 340px;
+    width: calc(((100% - 340px) / 2) + 340px);
     margin-top: 25px;
     margin-bottom: 25px;
-    margin-left: calc(((100% - 340px) / 2));
   }
 
   .u-section-6 .u-image-1 {
