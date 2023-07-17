@@ -299,7 +299,7 @@
   }
 
   .u-section-2 .u-table-1 {
-    width: 440px;
+    width: 416px;
     margin-top: 24px;
     margin-left: -2px;
   }
@@ -1060,10 +1060,8 @@
   }
 
   .u-section-5 .u-table-1 {
-    margin-top: 44px;
-    margin-bottom: 0;
-    margin-right: initial;
-    margin-left: initial;
+    width: 427px;
+    margin: 44px auto 0 0;
   }
 
   .u-section-5 .u-table-header-1 {
@@ -1304,7 +1302,7 @@
   }
 
   .u-section-6 .u-table-1 {
-    width: 440px;
+    width: 432px;
     margin-top: 41px;
     margin-right: auto;
     margin-left: -2px;
@@ -3773,7 +3771,7 @@
 
   .u-section-15 .u-text-1 {
     font-size: 1.5rem;
-    margin-top: 0;
+    margin-top: 26px;
     margin-right: auto;
   }
 
@@ -3784,9 +3782,10 @@
   }
 
   .u-section-15 .u-table-1 {
-    width: 429px;
+    width: 416px;
     margin-top: 28px;
     margin-right: auto;
+    margin-left: 6px;
   }
 
   .u-section-15 .u-table-header-1 {
