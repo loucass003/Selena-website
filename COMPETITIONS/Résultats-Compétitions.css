@@ -296,7 +296,7 @@
 
   .u-section-2 .u-text-1 {
     font-size: 0.875rem;
-    margin-top: 24px;
+    margin-top: 47px;
   }
 
   .u-section-2 .u-text-2 {
@@ -308,7 +308,6 @@
 
   .u-section-2 .u-table-1 {
     margin-top: 23px;
-    margin-bottom: -3px;
     width: auto;
     margin-right: initial;
     margin-left: initial;
@@ -578,23 +577,24 @@
   }
 
   .u-section-3 .u-layout-cell-2 {
-    min-height: 100px;
+    min-height: 242px;
   }
 
   .u-section-3 .u-container-layout-2 {
-    padding-left: 0;
-    padding-right: 0;
-    padding-bottom: 8px;
+    padding: 1px 0;
   }
 
   .u-section-3 .u-text-1 {
     font-size: 0.875rem;
-    margin-top: 9px;
+    margin-top: 18px;
   }
 
   .u-section-3 .u-table-1 {
     margin-top: 28px;
-    width: 320px;
+    margin-bottom: -7px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
   }
 
   .u-section-3 .u-table-header-1 {
@@ -1354,7 +1354,7 @@
   }
 
   .u-section-6 .u-layout-cell-2 {
-    min-height: 100px;
+    min-height: 219px;
   }
 
   .u-section-6 .u-container-layout-2 {
@@ -1368,7 +1368,10 @@
 
   .u-section-6 .u-table-1 {
     margin-top: 43px;
-    width: 320px;
+    margin-bottom: -14px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
   }
 
   .u-section-6 .u-table-header-1 {
@@ -1683,7 +1686,7 @@
   }
 
   .u-section-7 .u-layout-cell-2 {
-    min-height: 100px;
+    min-height: 433px;
   }
 
   .u-section-7 .u-container-layout-2 {
@@ -1706,7 +1709,9 @@
 
   .u-section-7 .u-table-1 {
     margin-top: 43px;
-    width: 320px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
   }
 
   .u-section-7 .u-table-header-1 {
