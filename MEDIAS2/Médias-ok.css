@@ -283,13 +283,12 @@
 }
 
 .u-section-4 .u-image-1 {
-  min-height: 592px;
-  background-image: url("/images/2000006419842.webp");
-  background-position: 42.29% 50%;
+  min-height: 607px;
+  background-image: url("/images/IMG-20230226-WA0004.jpg");
 }
 
 .u-section-4 .u-container-layout-1 {
-  padding: 30px 60px;
+  padding: 0;
 }
 
 .u-section-4 .u-image-2 {
@@ -313,7 +312,8 @@
   }
 
   .u-section-4 .u-image-1 {
-    min-height: 488px;
+    min-height: 501px;
+    background-position: 42.29% 50%;
   }
 
   .u-section-4 .u-image-2 {
@@ -327,12 +327,7 @@
   }
 
   .u-section-4 .u-image-1 {
-    min-height: 374px;
-  }
-
-  .u-section-4 .u-container-layout-1 {
-    padding-left: 30px;
-    padding-right: 30px;
+    min-height: 384px;
   }
 
   .u-section-4 .u-image-2 {
@@ -362,11 +357,6 @@
 
   .u-section-4 .u-image-1 {
     min-height: 561px;
-  }
-
-  .u-section-4 .u-container-layout-1 {
-    padding-left: 10px;
-    padding-right: 10px;
   }
 
   .u-section-4 .u-image-2 {
