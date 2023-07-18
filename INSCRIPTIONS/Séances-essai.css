@@ -79,7 +79,6 @@
   }
 } .u-section-3 {
   background-image: url("/images/860_gettyimages-598221791.jpg");
-  background-position: 50% 50%;
 }
 
 .u-section-3 .u-sheet-1 {
@@ -302,6 +301,10 @@
 }
 
 @media (max-width: 1199px) {
+   .u-section-3 {
+    background-position: 50% 50%;
+  }
+
   .u-section-3 .u-sheet-1 {
     min-height: 994px;
   }
