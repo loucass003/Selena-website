@@ -42028,6 +42028,7 @@ a.u-link.u-text-hover-grey-90:hover {
         
         
         
+        
         --theme-sheet-width-xl: 1140px;
         --theme-sheet-width-lg: 940px;
         --theme-sheet-width-md: 720px;
@@ -42098,12 +42099,13 @@ a.u-link.u-text-hover-grey-90:hover {
         h5
         {
         font-size: 1rem;
-        line-height: 1.2;
+        line-height: 1;
         margin-top: 20px;
         margin-bottom: 20px;
-        font-weight: 700;
         list-icon-spacing: 0.3;
         list-icon-size: 0.8;
+        font-family: Raleway,sans-serif;
+        font-weight: 700;
         }
         h6
         {
@@ -42317,6 +42319,7 @@ a.u-link.u-text-hover-grey-90:hover {
 .u-header .u-nav-1 {
   font-weight: 700;
   font-size: 1rem;
+  letter-spacing: normal;
 }
 
 .u-header .u-nav-2 {
@@ -42372,10 +42375,6 @@ a.u-link.u-text-hover-grey-90:hover {
   .u-header .u-menu-1 {
     margin-top: 9px;
     margin-bottom: 11px;
-  }
-
-  .u-header .u-nav-1 {
-    letter-spacing: normal;
   }
 }
 @media (max-width: 991px) {
