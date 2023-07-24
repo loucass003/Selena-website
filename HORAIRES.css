@@ -23,6 +23,11 @@
 
 .u-section-2 .u-text-1 {
   font-size: 3.75rem;
+  --animation-custom_in-translate_x: 0px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
   margin: 55px auto 0;
 }
 
@@ -357,7 +362,6 @@
   min-height: 283px;
   grid-template-columns: 100%;
   grid-gap: 30px 30px;
-  grid-auto-columns: 100%;
 }
 
 .u-section-3 .u-list-item-10 {
