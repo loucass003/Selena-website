@@ -300,30 +300,30 @@
     margin-top: 11px;
   }
 }.u-section-4 .u-sheet-1 {
-  min-height: 394px;
+  min-height: 391px;
 }
 
 .u-section-4 .u-layout-wrap-1 {
-  margin-top: 10px;
-  margin-bottom: 30px;
+  margin-top: 14px;
+  margin-bottom: 14px;
 }
 
 .u-section-4 .u-layout-cell-1 {
-  min-height: 375px;
+  min-height: 394px;
 }
 
 .u-section-4 .u-container-layout-1 {
-  padding: 30px 0;
+  padding: 11px 0;
 }
 
 .u-section-4 .u-image-1 {
   width: 555px;
-  height: 289px;
-  margin: 1px -1px 0;
+  height: 335px;
+  margin: 0 auto;
 }
 
 .u-section-4 .u-layout-cell-2 {
-  min-height: 375px;
+  min-height: 394px;
 }
 
 .u-section-4 .u-container-layout-2 {
@@ -337,7 +337,7 @@
 
 .u-section-4 .u-text-2 {
   font-size: 1.125rem;
-  margin: 20px 5px 0;
+  margin: 28px 5px 0;
 }
 
 .u-section-4 .u-btn-1 {
@@ -346,7 +346,7 @@
   border-style: solid;
   font-weight: 700;
   text-transform: uppercase;
-  margin: 0 auto;
+  margin: 2px auto 0;
 }
 
 @media (max-width: 1199px) {
@@ -359,18 +359,16 @@
   }
 
   .u-section-4 .u-layout-cell-1 {
-    min-height: 309px;
+    min-height: 325px;
   }
 
   .u-section-4 .u-image-1 {
     width: 457px;
-    height: 238px;
-    margin-left: 0;
-    margin-right: 0;
+    height: 276px;
   }
 
   .u-section-4 .u-layout-cell-2 {
-    min-height: 309px;
+    min-height: 325px;
   }
 
   .u-section-4 .u-text-1 {
@@ -390,16 +388,20 @@
   }
 
   .u-section-4 .u-layout-cell-1 {
-    min-height: 237px;
+    min-height: 249px;
   }
 
   .u-section-4 .u-image-1 {
     width: 347px;
-    height: 181px;
+    height: 210px;
   }
 
   .u-section-4 .u-layout-cell-2 {
     min-height: 100px;
+  }
+
+  .u-section-4 .u-text-2 {
+    font-size: 1rem;
   }
 }
 
@@ -409,7 +411,7 @@
   }
 
   .u-section-4 .u-layout-cell-1 {
-    min-height: 356px;
+    min-height: 374px;
   }
 
   .u-section-4 .u-container-layout-1 {
@@ -420,9 +422,7 @@
   .u-section-4 .u-image-1 {
     width: 516px;
     height: 291px;
-    margin-top: 0;
     margin-right: 10px;
-    margin-left: auto;
   }
 
   .u-section-4 .u-container-layout-2 {
@@ -436,11 +436,6 @@
     min-height: 538px;
   }
 
-  .u-section-4 .u-layout-wrap-1 {
-    margin-top: 31px;
-    margin-bottom: 4px;
-  }
-
   .u-section-4 .u-layout-cell-1 {
     min-height: 225px;
   }
@@ -448,7 +443,7 @@
   .u-section-4 .u-image-1 {
     width: 340px;
     height: 192px;
-    margin-right: 0;
+    margin-right: auto;
   }
 
   .u-section-4 .u-layout-cell-2 {
