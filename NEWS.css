@@ -433,10 +433,11 @@
 
 @media (max-width: 575px) {
   .u-section-4 .u-sheet-1 {
-    min-height: 533px;
+    min-height: 538px;
   }
 
   .u-section-4 .u-layout-wrap-1 {
+    margin-top: 31px;
     margin-bottom: 4px;
   }
 
