@@ -1,27 +1,32 @@
  .u-section-1 {
-  background-image: url("/images/tlchargement.jpeg");
-  background-position: 50% 50%;
+  background-image: url("../images/IMG-20230806-WA00071.jpg");
 }
 
 .u-section-1 .u-sheet-1 {
-  min-height: 171px;
+  min-height: 251px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 207px;
+  }
 }
 
 @media (max-width: 991px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 172px;
+    min-height: 159px;
   }
 }
 
 @media (max-width: 767px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 168px;
+    min-height: 119px;
   }
 }
 
 @media (max-width: 575px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 171px;
+    min-height: 75px;
   }
 } .u-section-2 {
   background-image: none;
@@ -53,7 +58,7 @@
 }
 
 .u-section-2 .u-list-item-1 {
-  box-shadow: 5px 5px 28px 0 rgba(248,196,7,0.4);
+  box-shadow: 5px 5px 28px 0 rgba(255,255,255,0.4);
 }
 
 .u-section-2 .u-container-layout-1 {
@@ -66,7 +71,7 @@
 }
 
 .u-section-2 .u-image-1 {
-  background-image: url("/images/Avatar-Femme.png");
+  background-image: url("../images/Avatar-Femme.png");
   margin-bottom: 0;
   margin-top: -14px;
   background-position: 50% 50%;
@@ -79,7 +84,7 @@
 }
 
 .u-section-2 .u-list-item-2 {
-  box-shadow: 5px 5px 28px 0 rgba(248,196,7,0.4);
+  box-shadow: 5px 5px 28px 0 rgba(255,255,255,0.4);
 }
 
 .u-section-2 .u-container-layout-2 {
@@ -93,7 +98,7 @@
 }
 
 .u-section-2 .u-image-2 {
-  background-image: url("/images/Avatar-Femme.png");
+  background-image: url("../images/Avatar-Femme.png");
   margin-bottom: 0;
   margin-top: -14px;
   background-position: 50% 50%;
@@ -106,7 +111,7 @@
 }
 
 .u-section-2 .u-list-item-3 {
-  box-shadow: 5px 5px 28px 0 rgba(248,196,7,0.4);
+  box-shadow: 5px 5px 28px 0 rgba(255,255,255,0.4);
 }
 
 .u-section-2 .u-container-layout-3 {
@@ -120,7 +125,7 @@
 }
 
 .u-section-2 .u-image-3 {
-  background-image: url("/images/Avatar-Femme.png");
+  background-image: url("../images/Avatar-Femme.png");
   margin-bottom: 0;
   margin-top: -14px;
   background-position: 50% 50%;
@@ -367,7 +372,7 @@
 }
 
 .u-section-3 .u-list-item-1 {
-  box-shadow: 5px 5px 28px 0 rgba(248,196,7,0.4);
+  box-shadow: 5px 5px 28px 0 rgba(255,255,255,0.4);
 }
 
 .u-section-3 .u-container-layout-1 {
@@ -380,7 +385,7 @@
 }
 
 .u-section-3 .u-image-1 {
-  background-image: url("/images/Avatar-Femme.png");
+  background-image: url("../images/Avatar-Femme.png");
   margin-bottom: 0;
   margin-top: -14px;
   background-position: 50% 50%;
@@ -393,7 +398,7 @@
 }
 
 .u-section-3 .u-list-item-2 {
-  box-shadow: 5px 5px 28px 0 rgba(248,196,7,0.4);
+  box-shadow: 5px 5px 28px 0 rgba(255,255,255,0.4);
 }
 
 .u-section-3 .u-container-layout-2 {
@@ -406,7 +411,7 @@
 }
 
 .u-section-3 .u-image-2 {
-  background-image: url("/images/Avatar-Femme.png");
+  background-image: url("../images/Avatar-Femme.png");
   margin-bottom: 0;
   margin-top: -14px;
   background-position: 50% 50%;
@@ -419,7 +424,7 @@
 }
 
 .u-section-3 .u-list-item-3 {
-  box-shadow: 5px 5px 28px 0 rgba(248,196,7,0.4);
+  box-shadow: 5px 5px 28px 0 rgba(255,255,255,0.4);
 }
 
 .u-section-3 .u-container-layout-3 {
@@ -433,7 +438,7 @@
 }
 
 .u-section-3 .u-image-3 {
-  background-image: url("/images/Avatar-Femme.png");
+  background-image: url("../images/Avatar-Femme.png");
   margin-bottom: 0;
   margin-top: -14px;
   background-position: 50% 50%;
@@ -446,7 +451,7 @@
 }
 
 .u-section-3 .u-list-item-4 {
-  box-shadow: 5px 5px 28px 0 rgba(248,196,7,0.4);
+  box-shadow: 5px 5px 28px 0 rgba(255,255,255,0.4);
 }
 
 .u-section-3 .u-container-layout-4 {
@@ -460,7 +465,7 @@
 }
 
 .u-section-3 .u-image-4 {
-  background-image: url("/images/Avatar-Femme.png");
+  background-image: url("../images/Avatar-Femme.png");
   margin-bottom: 0;
   margin-top: -14px;
   background-position: 50% 50%;

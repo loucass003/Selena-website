@@ -1,40 +1,39 @@
  .u-section-1 {
-  background-image: url("/images/tlchargement.jpeg");
-  background-position: 50% 50%;
+  background-image: url("../images/IMG-20230806-WA00071.jpg");
 }
 
 .u-section-1 .u-sheet-1 {
-  min-height: 175px;
+  min-height: 255px;
 }
 
 @media (max-width: 1199px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 171px;
+    min-height: 210px;
   }
 }
 
 @media (max-width: 991px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 175px;
+    min-height: 161px;
   }
 }
 
 @media (max-width: 767px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 173px;
+    min-height: 121px;
   }
 }
 
 @media (max-width: 575px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 170px;
+    min-height: 76px;
   }
 } .u-section-2 {
   background-image: none;
 }
 
 .u-section-2 .u-sheet-1 {
-  min-height: 740px;
+  min-height: 606px;
 }
 
 .u-section-2 .u-layout-wrap-1 {
@@ -43,8 +42,8 @@
 }
 
 .u-section-2 .u-image-1 {
-  min-height: 608px;
-  background-image: url("/images/affichecoupesnoopy2023.jpg");
+  min-height: 473px;
+  background-image: url("../images/affichecoupesnoopy2023.jpg");
   background-position: 50% 50%;
 }
 
@@ -53,7 +52,7 @@
 }
 
 .u-section-2 .u-layout-cell-2 {
-  min-height: 608px;
+  min-height: 473px;
 }
 
 .u-section-2 .u-container-layout-2 {
@@ -82,11 +81,11 @@
   }
 
   .u-section-2 .u-image-1 {
-    min-height: 501px;
+    min-height: 390px;
   }
 
   .u-section-2 .u-layout-cell-2 {
-    min-height: 501px;
+    min-height: 390px;
   }
 
   .u-section-2 .u-text-1 {
@@ -97,11 +96,6 @@
 @media (max-width: 991px) {
   .u-section-2 .u-sheet-1 {
     min-height: 1161px;
-  }
-
-  .u-section-2 .u-layout-wrap-1 {
-    margin-top: 83px;
-    margin-bottom: 29px;
   }
 
   .u-section-2 .u-image-1 {
@@ -141,10 +135,6 @@
 @media (max-width: 575px) {
   .u-section-2 .u-sheet-1 {
     min-height: 709px;
-  }
-
-  .u-section-2 .u-layout-wrap-1 {
-    margin-bottom: 23px;
   }
 
   .u-section-2 .u-image-1 {
@@ -196,7 +186,7 @@
 .u-section-3 .u-text-1 {
   font-size: 3.75rem;
   font-weight: 700;
-  margin: -64px 16px 0 32px;
+  margin: -64px 24px 0;
 }
 
 .u-section-3 .u-text-2 {
@@ -224,7 +214,7 @@
   width: 272px;
   height: 272px;
   animation-duration: 1000ms;
-  background-image: url("/images/275583217_3304935669776394_1943090514772533387_n.jpg");
+  background-image: url("../images/275583217_3304935669776394_1943090514772533387_n.jpg");
   background-position: 50% 50%;
   margin: 1425px 118px 0 auto;
 }
@@ -472,11 +462,11 @@
     margin-left: 8px;
   }
 } .u-section-4 {
-  min-height: 656px;
+  min-height: 690px;
 }
 
 .u-section-4 .u-layout-wrap-1 {
-  margin: 0 auto 0 0;
+  margin: 0 auto 34px 0;
 }
 
 .u-section-4 .u-layout-cell-1 {
@@ -489,7 +479,7 @@
 
 .u-section-4 .u-image-2 {
   min-height: 664px;
-  background-image: url("/images/275579315_3304935763109718_3940383867399474693_n1.jpg");
+  background-image: url("../images/275579315_3304935763109718_3940383867399474693_n1.jpg");
   background-position: 50% 50%;
 }
 
@@ -499,7 +489,7 @@
 
 .u-section-4 .u-image-3 {
   min-height: 664px;
-  background-image: url("/images/275500425_3304935466443081_6924674312058698_n.jpg");
+  background-image: url("../images/275500425_3304935466443081_6924674312058698_n.jpg");
   background-position: 50% 50%;
 }
 

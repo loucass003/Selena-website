@@ -1,34 +1,39 @@
  .u-section-1 {
-  background-image: url("/images/tlchargement.jpeg");
-  background-position: 50% 50%;
+  background-image: url("../images/IMG-20230806-WA00071.jpg");
 }
 
 .u-section-1 .u-sheet-1 {
-  min-height: 170px;
+  min-height: 250px;
 }
 
 @media (max-width: 1199px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 171px;
+    min-height: 206px;
   }
 }
 
 @media (max-width: 991px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 169px;
+    min-height: 158px;
   }
 }
 
 @media (max-width: 767px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 176px;
+    min-height: 119px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 75px;
   }
 }.u-section-2 .u-sheet-1 {
   min-height: 161px;
 }
 
 .u-section-2 .u-text-1 {
-  font-size: 1.5rem;
+  font-size: 1.25rem;
   font-weight: 900;
   margin: 52px auto 44px;
 }
@@ -78,7 +83,7 @@
     margin-bottom: 23px;
   }
 } .u-section-3 {
-  background-image: url("/images/860_gettyimages-598221791.jpg");
+  background-image: url("../images/IMG-20230806-WA00071.jpg");
 }
 
 .u-section-3 .u-sheet-1 {
@@ -106,7 +111,6 @@
 }
 
 .u-section-3 .u-text-2 {
-  font-size: 1.125rem;
   margin: 16px 26px 0;
 }
 
@@ -123,7 +127,7 @@
 }
 
 .u-section-3 .u-list-item-1 {
-  background-image: linear-gradient(white, rgba(248,196,7,0.99));
+  background-image: linear-gradient(white, #aee8e1);
 }
 
 .u-section-3 .u-container-layout-2 {
@@ -143,7 +147,7 @@
 }
 
 .u-section-3 .u-list-item-2 {
-  background-image: linear-gradient(white, rgba(248,196,7,0.99));
+  background-image: linear-gradient(white, #aee8e1);
 }
 
 .u-section-3 .u-container-layout-3 {
@@ -288,8 +292,6 @@
 }
 
 .u-section-3 .u-text-13 {
-  font-weight: 400;
-  font-size: 1.125rem;
   margin: 29px 46px 0;
 }
 
@@ -328,7 +330,6 @@
   }
 
   .u-section-3 .u-text-2 {
-    font-size: 1rem;
     width: auto;
     margin-top: 40px;
     margin-left: 0;
@@ -397,7 +398,6 @@
   }
 
   .u-section-3 .u-text-13 {
-    font-size: 1rem;
     width: auto;
     margin-top: 28px;
     margin-right: 0;
