@@ -1,5 +1,6 @@
  .u-section-1 {
   background-image: url("../images/IMG-20230806-WA00071.jpg");
+  background-position: 50% 50%;
 }
 
 .u-section-1 .u-sheet-1 {
@@ -25,6 +26,10 @@
 }
 
 @media (max-width: 575px) {
+   .u-section-1 {
+    background-position: 50% 50%;
+  }
+
   .u-section-1 .u-sheet-1 {
     min-height: 86px;
   }
@@ -260,6 +265,7 @@
   }
 
   .u-section-2 .u-text-2 {
+    font-size: 0.875rem;
     width: auto;
     margin-top: 17px;
     margin-left: 0;
@@ -1658,6 +1664,7 @@
   }
 
   .u-section-7 .u-text-2 {
+    font-size: 0.875rem;
     margin-top: 15px;
   }
 
@@ -1705,6 +1712,7 @@
   }
 
   .u-section-7 .u-text-2 {
+    font-size: 0.75rem;
     margin-top: 17px;
     margin-left: 0;
     margin-right: 0;
@@ -2565,6 +2573,7 @@
   }
 
   .u-section-10 .u-text-2 {
+    font-size: 0.875rem;
     margin-top: 16px;
   }
 
@@ -2611,6 +2620,7 @@
   }
 
   .u-section-10 .u-text-2 {
+    font-size: 0.75rem;
     margin-top: 30px;
     margin-left: 0;
     margin-right: 0;
@@ -4010,6 +4020,7 @@
   }
 
   .u-section-15 .u-text-2 {
+    font-size: 0.875rem;
     margin-top: 17px;
   }
 
@@ -4053,6 +4064,7 @@
   }
 
   .u-section-15 .u-text-2 {
+    font-size: 0.75rem;
     margin-top: 19px;
   }
 
