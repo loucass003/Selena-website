@@ -20,11 +20,7 @@
   .u-section-1 .u-sheet-1 {
     min-height: 381px;
   }
-} .u-section-2 {
-  min-height: 196px;
-}
-
-.u-section-2 .u-sheet-1 {
+}.u-section-2 .u-sheet-1 {
   min-height: 231px;
 }
 
@@ -71,6 +67,12 @@
 
 .u-block-188c-60 {
   background-image: none;
+}
+
+@media (max-width: 1199px) {
+   .u-section-2 {
+    min-height: 196px;
+  }
 }
 
 @media (max-width: 991px) {
