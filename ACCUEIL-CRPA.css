@@ -14,10 +14,6 @@
 }
 
 @media (max-width: 991px) {
-   .u-section-2 {
-    background-position: 50% 50%;
-  }
-
   .u-section-2 .u-sheet-1 {
     min-height: 291px;
   }
@@ -313,7 +309,8 @@
   .u-section-4 .u-btn-1 {
     font-size: 0.625rem;
     margin-top: 9px;
-    margin-right: 0;
+    margin-right: auto;
+    margin-left: 105px;
     padding: 10px 10px 10px 9px;
   }
 }.u-section-5 .u-sheet-1 {
@@ -872,7 +869,6 @@
 @media (max-width: 991px) {
    .u-section-9 {
     min-height: 186px;
-    background-position: 50% 50%;
   }
 
   .u-section-9 .u-sheet-1 {
