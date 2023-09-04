@@ -1,5 +1,5 @@
  .u-section-1 {
-  background-image: url("../images/IMG-20230806-WA00071.jpg");
+  background-image: url("../images/IMG-20230806-WA0007.jpg");
 }
 
 .u-section-1 .u-sheet-1 {
@@ -20,7 +20,11 @@
   .u-section-1 .u-sheet-1 {
     min-height: 381px;
   }
-}.u-section-2 .u-sheet-1 {
+} .u-section-2 {
+  min-height: 196px;
+}
+
+.u-section-2 .u-sheet-1 {
   min-height: 231px;
 }
 
@@ -69,12 +73,6 @@
   background-image: none;
 }
 
-@media (max-width: 1199px) {
-   .u-section-2 {
-    min-height: 196px;
-  }
-}
-
 @media (max-width: 991px) {
   .u-section-2 .u-table-1 {
     width: 720px;
@@ -92,7 +90,7 @@
     width: 340px;
   }
 } .u-section-3 {
-  background-image: url("../images/IMG-20230806-WA00071.jpg");
+  background-image: url("../images/IMG-20230806-WA0007.jpg");
 }
 
 .u-section-3 .u-sheet-1 {
