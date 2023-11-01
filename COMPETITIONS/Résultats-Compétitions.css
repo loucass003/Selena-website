@@ -1,5 +1,6 @@
  .u-section-1 {
   background-image: url("../images/IMG-20230806-WA0007.jpg");
+  background-position: 50% 50%;
 }
 
 .u-section-1 .u-sheet-1 {
@@ -7,10 +8,6 @@
 }
 
 @media (max-width: 1199px) {
-   .u-section-1 {
-    background-position: 50% 50%;
-  }
-
   .u-section-1 .u-sheet-1 {
     min-height: 237px;
   }
@@ -23,6 +20,10 @@
 }
 
 @media (max-width: 767px) {
+   .u-section-1 {
+    background-position: 50% 50%;
+  }
+
   .u-section-1 .u-sheet-1 {
     min-height: 137px;
   }
@@ -503,24 +504,25 @@
   }
 
   .u-section-3 .u-layout-cell-2 {
-    min-height: 327px;
+    min-height: 353px;
   }
 
   .u-section-3 .u-container-layout-2 {
+    padding-top: 13px;
     padding-left: 0;
     padding-right: 0;
   }
 
   .u-section-3 .u-text-1 {
     font-size: 1.5rem;
-    margin-top: 16px;
-    margin-left: 0;
-    margin-right: 0;
+    margin-top: 25px;
+    margin-right: 130px;
+    margin-left: auto;
   }
 
   .u-section-3 .u-table-1 {
     width: 508px;
-    margin-top: 62px;
+    margin-top: 58px;
     margin-left: auto;
     margin-right: auto;
   }
@@ -594,7 +596,6 @@
 
   .u-section-3 .u-text-1 {
     font-size: 0.875rem;
-    margin-left: auto;
     margin-right: auto;
   }
 
@@ -1434,6 +1435,7 @@
 
 .u-section-7 .u-text-2 {
   font-weight: 400;
+  font-size: 1.5rem;
   margin: 31px 0 0;
 }
 
@@ -1570,10 +1572,6 @@
     margin-top: 8px;
     margin-left: 1px;
     margin-right: 1px;
-  }
-
-  .u-section-7 .u-text-2 {
-    font-size: 1.5rem;
   }
 
   .u-section-7 .u-table-1 {
@@ -2396,6 +2394,7 @@
 
 .u-section-10 .u-text-2 {
   font-weight: 400;
+  font-size: 1.5rem;
   margin: 66px auto 0;
 }
 
@@ -2488,7 +2487,6 @@
   .u-section-10 .u-text-2 {
     width: auto;
     margin-top: 25px;
-    font-size: 1.5rem;
   }
 
   .u-section-10 .u-table-1 {
@@ -3844,6 +3842,7 @@
 
 .u-section-15 .u-text-2 {
   font-weight: 400;
+  font-size: 1.5rem;
   margin: 45px auto 0;
 }
 
@@ -3937,7 +3936,6 @@
   .u-section-15 .u-text-2 {
     width: auto;
     margin-top: 35px;
-    font-size: 1.5rem;
   }
 
   .u-section-15 .u-table-1 {
