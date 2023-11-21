@@ -97,8 +97,8 @@
 }
 
 .u-section-3 .u-layout-wrap-1 {
-  margin-top: 49px;
-  margin-bottom: 60px;
+  margin-top: 55px;
+  margin-bottom: 55px;
 }
 
 .u-section-3 .u-layout-cell-1 {
@@ -297,17 +297,17 @@
   padding: 0;
 }
 
-.u-section-3 .u-text-13 {
-  font-weight: 700;
-  text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
-  margin: 108px 46px 0;
+.u-section-3 .u-shape-1 {
+  width: 459px;
+  --radius: 10px;
+  height: 171px;
+  margin: 139px auto 0 31px;
 }
 
-.u-section-3 .u-image-1 {
-  width: 27px;
-  height: 188px;
-  box-shadow: 0 -2px 8px 0 rgba(128,128,128,1);
-  margin: -38px -107px 0 auto;
+.u-section-3 .u-text-13 {
+  font-weight: 700;
+  font-style: normal;
+  margin: -159px 46px 0;
 }
 
 @media (max-width: 1199px) {
@@ -317,11 +317,6 @@
 
   .u-section-3 .u-sheet-1 {
     min-height: 994px;
-  }
-
-  .u-section-3 .u-layout-wrap-1 {
-    margin-top: 45px;
-    margin-bottom: 16px;
   }
 
   .u-section-3 .u-layout-cell-1 {
@@ -402,27 +397,23 @@
   }
 
   .u-section-3 .u-layout-cell-4 {
-    min-height: 525px;
+    min-height: 459px;
+  }
+
+  .u-section-3 .u-shape-1 {
+    width: 450px;
+    margin-left: 0;
   }
 
   .u-section-3 .u-text-13 {
     margin-left: 0;
     margin-right: 0;
   }
-
-  .u-section-3 .u-image-1 {
-    height: 192px;
-  }
 }
 
 @media (max-width: 991px) {
   .u-section-3 .u-sheet-1 {
     min-height: 1186px;
-  }
-
-  .u-section-3 .u-layout-wrap-1 {
-    margin-top: 60px;
-    margin-bottom: 60px;
   }
 
   .u-section-3 .u-layout-cell-1 {
@@ -492,17 +483,17 @@
   }
 
   .u-section-3 .u-layout-cell-4 {
-    min-height: 352px;
+    min-height: 100px;
+  }
+
+  .u-section-3 .u-shape-1 {
+    width: 340px;
   }
 }
 
 @media (max-width: 767px) {
   .u-section-3 .u-sheet-1 {
     min-height: 2112px;
-  }
-
-  .u-section-3 .u-layout-wrap-1 {
-    margin-top: 32px;
   }
 
   .u-section-3 .u-layout-cell-1 {
@@ -567,7 +558,6 @@
   }
 
   .u-section-3 .u-layout-cell-4 {
-    min-height: 528px;
     order: 0;
   }
 
@@ -580,10 +570,6 @@
 @media (max-width: 575px) {
   .u-section-3 .u-sheet-1 {
     min-height: 585px;
-  }
-
-  .u-section-3 .u-layout-wrap-1 {
-    margin-top: 106px;
   }
 
   .u-section-3 .u-layout-cell-1 {
@@ -638,10 +624,6 @@
   .u-section-3 .u-container-layout-5 {
     padding-left: 0;
     padding-right: 0;
-  }
-
-  .u-section-3 .u-layout-cell-4 {
-    min-height: 332px;
   }
 
   .u-section-3 .u-container-layout-9 {
