@@ -1,6 +1,5 @@
  .u-section-2 {
   background-image: url("images/IMG-20230806-WA0007.jpg");
-  background-position: 50% 50%;
 }
 
 .u-section-2 .u-sheet-1 {
@@ -8,6 +7,10 @@
 }
 
 @media (max-width: 1199px) {
+   .u-section-2 {
+    background-position: 50% 50%;
+  }
+
   .u-section-2 .u-sheet-1 {
     min-height: 380px;
   }
@@ -344,13 +347,17 @@
 
 .u-container-layout.hover .u-section-3 .u-text-1 {
   transform: rotate(0deg) scale(1) translateX(0px) translateY(0px) !important;
-}.u-section-4 .u-sheet-1 {
-  min-height: 700px;
+} .u-section-4 {
+  min-height: 318px;
+}
+
+.u-section-4 .u-sheet-1 {
+  min-height: 701px;
 }
 
 .u-section-4 .u-layout-wrap-1 {
-  margin-top: 8px;
-  margin-bottom: 38px;
+  margin-top: 0;
+  margin-bottom: 46px;
 }
 
 .u-section-4 .u-image-1 {
@@ -387,7 +394,7 @@
 }
 
 .u-section-4 .u-text-2 {
-  margin: 74px auto 0 -4px;
+  margin: 85px auto 0;
 }
 
 .u-section-4 .u-btn-2 {
@@ -396,7 +403,7 @@
   font-size: 1.125rem;
   letter-spacing: 1px;
   font-weight: 700;
-  margin: 37px auto 0;
+  margin: 26px auto 0;
   padding: 9px 46px 11px 44px;
 }
 
@@ -406,10 +413,6 @@
 }
 
 @media (max-width: 1199px) {
-   .u-section-4 {
-    min-height: 318px;
-  }
-
   .u-section-4 .u-sheet-1 {
     min-height: 89px;
   }
@@ -428,11 +431,11 @@
 
   .u-section-4 .u-text-2 {
     margin-top: 97px;
+    font-size: 3rem;
   }
 
   .u-section-4 .u-btn-2 {
     margin-top: 20px;
-    margin-bottom: initial;
   }
 
   .u-section-4 .u-text-3 {
@@ -495,7 +498,7 @@
 
 @media (max-width: 575px) {
    .u-section-4 {
-    min-height: auto;
+    min-height: 154px;
   }
 
   .u-section-4 .u-sheet-1 {
@@ -540,7 +543,6 @@
 
   .u-section-4 .u-btn-2 {
     margin-top: 38px;
-    margin-bottom: 0;
   }
 
   .u-section-4 .u-text-3 {
@@ -653,7 +655,7 @@
 
 @media (max-width: 575px) {
    .u-section-5 {
-    min-height: auto;
+    min-height: 179px;
   }
 
   .u-section-5 .u-sheet-1 {
@@ -681,7 +683,6 @@
   }
 } .u-section-6 {
   background-image: url("images/IMG-20230806-WA0007.jpg");
-  background-position: 50% 50%;
 }
 
 .u-section-6 .u-sheet-1 {
@@ -691,6 +692,7 @@
 @media (max-width: 1199px) {
    .u-section-6 {
     min-height: 264px;
+    background-position: 50% 50%;
   }
 
   .u-section-6 .u-sheet-1 {
