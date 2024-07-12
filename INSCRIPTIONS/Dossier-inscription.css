@@ -13,6 +13,12 @@
   }
 }
 
+@media (max-width: 767px) {
+   .u-section-1 {
+    background-position: 50% 50%;
+  }
+}
+
 @media (max-width: 575px) {
   .u-section-1 .u-sheet-1 {
     min-height: 381px;
@@ -98,7 +104,7 @@
   font-size: 0.875rem;
   font-weight: 700;
   letter-spacing: 1px;
-  margin: 118px auto 60px;
+  margin: 118px auto 275px;
 }
 
 @media (max-width: 1199px) {
@@ -125,17 +131,21 @@
 }
 
 @media (max-width: 991px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 1747px;
+  }
+
   .u-section-2 .u-text-2 {
     margin-left: 0;
     margin-right: 0;
   }
 
   .u-section-2 .u-btn-1 {
-    margin-top: -1496px;
+    margin-top: -1531px;
   }
 
   .u-section-2 .u-btn-2 {
-    margin-top: 125px;
+    margin-top: 117px;
   }
 
   .u-section-2 .u-btn-3 {
@@ -143,26 +153,27 @@
   }
 
   .u-section-2 .u-btn-4 {
-    margin-top: 117px;
+    margin-top: 105px;
   }
 
   .u-section-2 .u-btn-5 {
-    margin-top: 117px;
+    margin-top: 114px;
   }
 
   .u-section-2 .u-btn-6 {
-    margin-top: 309px;
+    margin-top: 314px;
     margin-left: 149px;
   }
 
   .u-section-2 .u-btn-7 {
     margin-top: 117px;
+    margin-bottom: 60px;
   }
 }
 
 @media (max-width: 767px) {
   .u-section-2 .u-sheet-1 {
-    min-height: 1726px;
+    min-height: 1929px;
   }
 
   .u-section-2 .u-btn-1 {
@@ -187,7 +198,7 @@
 
   .u-section-2 .u-btn-6 {
     margin-top: 390px;
-    margin-left: 0;
+    margin-left: auto;
   }
 
   .u-section-2 .u-btn-7 {
@@ -197,7 +208,7 @@
 
 @media (max-width: 575px) {
   .u-section-2 .u-sheet-1 {
-    min-height: 1334px;
+    min-height: 1393px;
   }
 
   .u-section-2 .u-text-1 {
@@ -210,32 +221,38 @@
 
   .u-section-2 .u-btn-1 {
     margin-top: -1198px;
+    padding: 3px 30px 4px 29px;
   }
 
   .u-section-2 .u-btn-2 {
-    margin-top: 91px;
+    margin-top: 104px;
+    padding: 3px 31px 4px 30px;
   }
 
   .u-section-2 .u-btn-3 {
-    margin-top: 100px;
+    margin-top: 113px;
+    padding: 4px 30px 5px 29px;
   }
 
   .u-section-2 .u-btn-4 {
-    margin-top: 71px;
+    margin-top: 82px;
+    padding: 3px 30px 4px 29px;
   }
 
   .u-section-2 .u-btn-5 {
-    margin-top: 59px;
+    margin-top: 72px;
+    padding: 5px 30px;
   }
 
   .u-section-2 .u-btn-6 {
-    margin-top: 272px;
+    margin-top: 282px;
     margin-right: 0;
-    padding: 9px 0 10px;
+    padding: 3px 0 4px;
   }
 
   .u-section-2 .u-btn-7 {
-    margin-top: 71px;
+    margin-top: 83px;
+    padding: 2px 30px 3px;
   }
 } .u-section-3 {
   background-image: url("../images/IMG-20230806-WA0007.jpg");
@@ -253,6 +270,10 @@
 }
 
 @media (max-width: 767px) {
+   .u-section-3 {
+    background-position: 50% 50%;
+  }
+
   .u-section-3 .u-sheet-1 {
     min-height: 201px;
   }
