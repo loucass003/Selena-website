@@ -133,7 +133,7 @@
 }
 
 .u-section-4 .u-container-layout-1 {
-  box-shadow: -2px 2px 8px 0px rgba(128,128,128,1);
+  box-shadow: -2px 0px 8px 0px rgba(51,51,51,1);
   padding: 30px;
 }
 
@@ -309,6 +309,7 @@
 .u-section-4 .u-image-1 {
   min-height: 800px;
   background-image: url("images/Capturedcran2024-08-26215038.png");
+  background-position: 50% 50%;
 }
 
 .u-section-4 .u-container-layout-2 {
@@ -411,14 +412,14 @@
 }
 
 .u-section-5 .u-container-layout-2 {
-  box-shadow: 2px 2px 8px 0px rgba(128,128,128,1);
+  box-shadow: 2px 2px 8px 0px rgba(51,51,51,1);
   padding: 30px 0;
 }
 
 .u-section-5 .u-text-1 {
   font-size: 3rem;
   font-weight: 400;
-  margin: 13px auto 0;
+  margin: 54px auto 0;
 }
 
 .u-section-5 .u-btn-1 {
@@ -427,14 +428,8 @@
   font-size: 1.125rem;
   letter-spacing: 1px;
   font-weight: 700;
-  margin: 26px auto 0;
+  margin: 51px auto 0;
   padding: 9px 46px 11px 44px;
-}
-
-.u-section-5 .u-text-2 {
-  font-size: 3rem;
-  font-weight: 400;
-  margin: 158px auto 0;
 }
 
 .u-section-5 .u-btn-2 {
@@ -443,7 +438,7 @@
   font-size: 1.125rem;
   letter-spacing: 1px;
   font-weight: 700;
-  margin: 38px auto 0;
+  margin: 51px auto 0;
   padding: 9px 46px 11px 44px;
 }
 
@@ -469,12 +464,8 @@
     margin-top: 169px;
   }
 
-  .u-section-5 .u-text-2 {
-    margin-top: 97px;
-  }
-
   .u-section-5 .u-btn-2 {
-    margin-top: 20px;
+    margin-top: 97px;
   }
 }
 
@@ -542,13 +533,8 @@
     margin-left: 108px;
   }
 
-  .u-section-5 .u-text-2 {
-    width: auto;
-    margin-top: 137px;
-  }
-
   .u-section-5 .u-btn-2 {
-    margin-top: 40px;
+    margin-top: 137px;
   }
 }
 
@@ -585,13 +571,8 @@
     margin-left: auto;
   }
 
-  .u-section-5 .u-text-2 {
-    font-size: 1.875rem;
-    margin-top: 69px;
-  }
-
   .u-section-5 .u-btn-2 {
-    margin-top: 38px;
+    margin-top: 69px;
   }
 } .u-section-6 {
   background-image: url("images/IMG-20230806-WA0007.jpg");
@@ -657,7 +638,7 @@
 }
 
 .u-section-7 .u-container-layout-1 {
-  box-shadow: -2px 2px 8px 0px rgba(128,128,128,1);
+  box-shadow: -2px 2px 8px 0px rgba(51,51,51,1);
   padding: 30px 60px;
 }
 
@@ -680,6 +661,7 @@
 .u-section-7 .u-image-1 {
   min-height: 594px;
   background-image: url("images/SummerPartyBeachpartyhellosummer-FaitavecPosterMyWall.jpg");
+  background-position: 50% 50%;
 }
 
 .u-section-7 .u-container-layout-2 {
@@ -702,7 +684,6 @@
 
   .u-section-7 .u-image-1 {
     min-height: 490px;
-    background-position: 50% 50%;
   }
 }
 
