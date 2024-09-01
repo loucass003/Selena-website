@@ -31,7 +31,7 @@
   }
 
   .u-section-1 .u-text-1 {
-    font-size: 3.75rem;
+    font-size: 3rem;
     width: 720px;
   }
 }
@@ -70,6 +70,12 @@
   --animation-custom_in-scale: 0.3;
   font-size: 3rem;
   margin: 43px auto 24px;
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-text-1 {
+    font-weight: 400;
+  }
 }
 
 @media (max-width: 575px) {
@@ -803,6 +809,10 @@
 }
 
 @media (max-width: 991px) {
+  .u-section-5 .u-text-1 {
+    font-weight: 400;
+  }
+
   .u-section-5 .u-repeater-1 {
     grid-template-columns: repeat(2, calc(50% - 10px));
     min-height: 2147px;
