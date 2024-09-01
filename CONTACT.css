@@ -15,16 +15,13 @@
   --animation-custom_in-rotate: 0deg;
   --animation-custom_in-scale: 1;
   width: 759px;
+  font-weight: 400;
   margin: 147px auto 60px;
 }
 
 @media (max-width: 1199px) {
   .u-section-1 .u-sheet-1 {
     min-height: 338px;
-  }
-
-  .u-section-1 .u-text-1 {
-    font-weight: 400;
   }
 }
 
@@ -34,7 +31,9 @@
   }
 
   .u-section-1 .u-text-1 {
+    font-size: 3.75rem;
     width: 720px;
+    margin-top: 104px;
   }
 }
 
