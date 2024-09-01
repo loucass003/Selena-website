@@ -1,9 +1,20 @@
  .u-section-1 {
-  background-image: url("../images/IMG-20230806-WA0007.jpg");
+  background-image: url("../images/1N5A1379.jpg");
 }
 
 .u-section-1 .u-sheet-1 {
-  min-height: 250px;
+  min-height: 436px;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 6rem;
+  --animation-custom_in-translate_x: 0px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+  width: 759px;
+  margin: 160px auto 60px;
 }
 
 @media (max-width: 1199px) {
@@ -12,25 +23,37 @@
   }
 
   .u-section-1 .u-sheet-1 {
-    min-height: 206px;
+    min-height: 360px;
   }
 }
 
 @media (max-width: 991px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 158px;
+    min-height: 276px;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: 720px;
   }
 }
 
 @media (max-width: 767px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 119px;
+    min-height: 207px;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: 540px;
   }
 }
 
 @media (max-width: 575px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 75px;
+    min-height: 130px;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: 340px;
   }
 }.u-section-2 .u-sheet-1 {
   min-height: 770px;

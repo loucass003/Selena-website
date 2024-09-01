@@ -1322,8 +1322,8 @@
 }
 
 .u-section-7 .u-layout-wrap-1 {
-  width: calc(((100% - 1140px) / 2) + 1093px);
-  margin: 69px auto 24px 0;
+  width: 1143px;
+  margin: 59px auto 44px calc(((100% - 1140px) / 2)  + -47px);
 }
 
 .u-section-7 .u-image-1 {
@@ -1374,7 +1374,7 @@
   }
 
   .u-section-7 .u-layout-cell-2 {
-    min-height: 435px;
+    min-height: 416px;
   }
 
   .u-section-7 .u-container-layout-2 {
