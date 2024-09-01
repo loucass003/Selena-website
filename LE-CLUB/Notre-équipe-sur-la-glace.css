@@ -8,7 +8,6 @@
 
 .u-section-1 .u-text-1 {
   font-size: 6rem;
-  font-weight: 700;
   --animation-custom_in-translate_x: 0px;
   --animation-custom_in-translate_y: 0px;
   --animation-custom_in-opacity: 0;
@@ -25,6 +24,10 @@
 
   .u-section-1 .u-sheet-1 {
     min-height: 305px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-weight: 400;
   }
 }
 
