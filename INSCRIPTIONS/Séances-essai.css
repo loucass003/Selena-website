@@ -121,7 +121,7 @@
 }
 
 .u-section-3 .u-layout-cell-1 {
-  min-height: 425px;
+  min-height: 569px;
 }
 
 .u-section-3 .u-container-layout-1 {
@@ -141,14 +141,14 @@
 
 .u-section-3 .u-list-1 {
   grid-auto-rows: 100%;
-  width: 432px;
-  margin: 24px auto 0;
+  width: 532px;
+  margin: 11px 26px 0 auto;
 }
 
 .u-section-3 .u-repeater-1 {
   grid-template-columns: calc(50% - 10px) calc(50% - 10px);
-  min-height: 149px;
-  grid-gap: 20px 20px;
+  min-height: 341px;
+  grid-gap: 20px;
 }
 
 .u-section-3 .u-list-item-1 {
@@ -156,7 +156,7 @@
 }
 
 .u-section-3 .u-container-layout-2 {
-  padding: 0 30px;
+  padding: 13px 30px;
 }
 
 .u-section-3 .u-text-3 {
@@ -168,7 +168,7 @@
 }
 
 .u-section-3 .u-text-4 {
-  margin: 20px 0 0;
+  margin: 31px 0 0;
 }
 
 .u-section-3 .u-list-item-2 {
@@ -176,7 +176,7 @@
 }
 
 .u-section-3 .u-container-layout-3 {
-  padding: 0 30px;
+  padding: 13px 30px;
 }
 
 .u-section-3 .u-text-5 {
@@ -188,11 +188,11 @@
 }
 
 .u-section-3 .u-text-6 {
-  margin: 20px 0 0;
+  margin: 31px 0 0;
 }
 
 .u-section-3 .u-layout-cell-2 {
-  min-height: 425px;
+  min-height: 525px;
 }
 
 .u-section-3 .u-container-layout-4 {
