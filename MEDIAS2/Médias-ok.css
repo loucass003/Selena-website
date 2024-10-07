@@ -62,20 +62,25 @@
 }
 
 .u-section-2 .u-sheet-1 {
-  min-height: 540px;
+  min-height: 452px;
 }
 
 .u-section-2 .u-layout-wrap-1 {
-  width: 1140px;
-  margin: 60px 0;
+  margin-top: 85px;
+  margin-bottom: 47px;
 }
 
 .u-section-2 .u-layout-cell-1 {
-  min-height: 400px;
+  min-height: 350px;
 }
 
 .u-section-2 .u-container-layout-1 {
-  padding: 20px;
+  padding: 0 7px;
+}
+
+.u-section-2 .u-video-1 {
+  height: 311px;
+  margin: 0;
 }
 
 .u-section-2 .embed-responsive-1 {
@@ -87,7 +92,7 @@
 }
 
 .u-section-2 .u-layout-cell-2 {
-  min-height: 400px;
+  min-height: 350px;
 }
 
 .u-section-2 .u-container-layout-2 {
@@ -104,60 +109,49 @@
 
 @media (max-width: 1199px) {
   .u-section-2 .u-sheet-1 {
-    min-height: 470px;
-  }
-
-  .u-section-2 .u-layout-wrap-1 {
-    width: 940px;
+    min-height: 382px;
   }
 
   .u-section-2 .u-layout-cell-1 {
-    min-height: 330px;
+    min-height: 289px;
+  }
+
+  .u-section-2 .u-video-1 {
+    inset: auto;
+    margin-right: initial;
+    margin-left: initial;
   }
 
   .u-section-2 .u-layout-cell-2 {
-    min-height: 330px;
+    min-height: 289px;
   }
 }
 
 @media (max-width: 991px) {
   .u-section-2 .u-sheet-1 {
-    min-height: 393px;
-  }
-
-  .u-section-2 .u-layout-wrap-1 {
-    width: 720px;
+    min-height: 305px;
   }
 
   .u-section-2 .u-layout-cell-1 {
-    min-height: 253px;
+    min-height: 221px;
   }
 
   .u-section-2 .u-layout-cell-2 {
-    min-height: 253px;
+    min-height: 221px;
   }
 }
 
 @media (max-width: 767px) {
   .u-section-2 .u-sheet-1 {
-    min-height: 900px;
-  }
-
-  .u-section-2 .u-layout-wrap-1 {
-    width: 540px;
+    min-height: 812px;
   }
 
   .u-section-2 .u-layout-cell-1 {
-    min-height: 380px;
-  }
-
-  .u-section-2 .u-container-layout-1 {
-    padding-left: 10px;
-    padding-right: 10px;
+    min-height: 332px;
   }
 
   .u-section-2 .u-layout-cell-2 {
-    min-height: 380px;
+    min-height: 332px;
   }
 
   .u-section-2 .u-container-layout-2 {
@@ -168,19 +162,15 @@
 
 @media (max-width: 575px) {
   .u-section-2 .u-sheet-1 {
-    min-height: 618px;
-  }
-
-  .u-section-2 .u-layout-wrap-1 {
-    width: 340px;
+    min-height: 530px;
   }
 
   .u-section-2 .u-layout-cell-1 {
-    min-height: 239px;
+    min-height: 209px;
   }
 
   .u-section-2 .u-layout-cell-2 {
-    min-height: 239px;
+    min-height: 209px;
   }
 } .u-section-3 {
   background-image: url("../images/WhatsAppImage2024-09-0607.14.23_035a1d8b.jpg");
