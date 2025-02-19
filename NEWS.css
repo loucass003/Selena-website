@@ -54,185 +54,34 @@
     width: 340px;
   }
 } .u-section-2 {
-  min-height: 318px;
+  background-image: url("images/WhatsAppImage2025-01-1919.04.00_cee358cb.jpg");
 }
 
 .u-section-2 .u-sheet-1 {
-  min-height: 855px;
-}
-
-.u-section-2 .u-layout-wrap-1 {
-  margin-top: 37px;
-  margin-bottom: 37px;
-}
-
-.u-section-2 .u-image-1 {
-  min-height: 781px;
-  background-image: url("images/affichecoupesnoopy.png");
-  background-position: 50% 50%;
-}
-
-.u-section-2 .u-container-layout-1 {
-  box-shadow: 2px 2px 8px 0px rgba(51,51,51,1);
-  padding: 0;
-}
-
-.u-section-2 .u-layout-cell-2 {
-  min-height: 781px;
-}
-
-.u-section-2 .u-container-layout-2 {
-  padding: 30px 0;
-}
-
-.u-section-2 .u-text-1 {
-  font-size: 3rem;
-  font-weight: 700;
-  width: 480px;
-  margin: 0 auto;
-}
-
-.u-section-2 .u-text-2 {
-  font-size: 1.125rem;
-  margin: 35px 16px 0;
-}
-
-.u-section-2 .u-btn-1 {
-  background-image: none;
-  font-size: 1.125rem;
-  letter-spacing: 1px;
-  text-transform: uppercase;
-  font-weight: 400;
-  margin: -47px auto 0;
-  padding: 11px 45px;
-}
-
-.u-section-2 .u-btn-2 {
-  background-image: none;
-  font-size: 1.125rem;
-  letter-spacing: 1px;
-  text-transform: uppercase;
-  font-weight: 400;
-  margin: 35px auto 0;
-  padding: 11px 45px;
+  min-height: 1852px;
 }
 
 @media (max-width: 1199px) {
   .u-section-2 .u-sheet-1 {
-    min-height: 408px;
-  }
-
-  .u-section-2 .u-image-1 {
-    min-height: 644px;
-  }
-
-  .u-section-2 .u-layout-cell-2 {
-    background-position: 50% 50%;
-    min-height: 644px;
-  }
-
-  .u-section-2 .u-text-1 {
-    margin-right: 66px;
-    margin-left: 70px;
-  }
-
-  .u-section-2 .u-text-2 {
-    margin-top: 91px;
-    margin-left: 0;
-    margin-right: 0;
+    min-height: 1527px;
   }
 }
 
 @media (max-width: 991px) {
-   .u-section-2 {
-    min-height: 154px;
-  }
-
   .u-section-2 .u-sheet-1 {
-    min-height: 883px;
-  }
-
-  .u-section-2 .u-image-1 {
-    min-height: 810px;
-  }
-
-  .u-section-2 .u-layout-cell-2 {
-    min-height: 100px;
-  }
-
-  .u-section-2 .u-container-layout-2 {
-    padding-bottom: 23px;
-  }
-
-  .u-section-2 .u-text-1 {
-    font-size: 1.875rem;
-    width: auto;
-    margin-right: -24px;
-    margin-left: 0;
-  }
-
-  .u-section-2 .u-text-2 {
-    width: auto;
-    margin-top: 40px;
-  }
-
-  .u-section-2 .u-btn-1 {
-    font-size: 1rem;
-    margin-top: -46px;
-    padding: 10px 0;
+    min-height: 1170px;
   }
 }
 
 @media (max-width: 767px) {
-   .u-section-2 {
-    min-height: 1042px;
-  }
-
   .u-section-2 .u-sheet-1 {
-    min-height: 1404px;
-  }
-
-  .u-section-2 .u-layout-wrap-1 {
-    margin-top: 1px;
-    margin-bottom: 1px;
-  }
-
-  .u-section-2 .u-image-1 {
-    min-height: 702px;
-  }
-
-  .u-section-2 .u-container-layout-1 {
-    padding-left: 44px;
-    padding-right: 44px;
-  }
-
-  .u-section-2 .u-text-2 {
-    font-size: 1rem;
-    margin-top: 91px;
+    min-height: 878px;
   }
 }
 
 @media (max-width: 575px) {
-   .u-section-2 {
-    min-height: 154px;
-  }
-
   .u-section-2 .u-sheet-1 {
-    min-height: 919px;
-  }
-
-  .u-section-2 .u-image-1 {
-    min-height: 442px;
-  }
-
-  .u-section-2 .u-container-layout-1 {
-    padding-left: 0;
-    padding-right: 0;
-  }
-
-  .u-section-2 .u-text-1 {
-    margin-right: auto;
-    margin-left: auto;
+    min-height: 553px;
   }
 } .u-section-3 {
   min-height: 318px;
@@ -244,12 +93,12 @@
 
 .u-section-3 .u-layout-wrap-1 {
   margin-top: 37px;
-  margin-bottom: 60px;
+  margin-bottom: 37px;
 }
 
 .u-section-3 .u-image-1 {
-  min-height: 576px;
-  background-image: url("images/VACANCESDEnOEL.png");
+  min-height: 781px;
+  background-image: url("images/affichecoupesnoopy.png");
   background-position: 50% 50%;
 }
 
@@ -259,7 +108,7 @@
 }
 
 .u-section-3 .u-layout-cell-2 {
-  min-height: 576px;
+  min-height: 781px;
 }
 
 .u-section-3 .u-container-layout-2 {
@@ -269,12 +118,13 @@
 .u-section-3 .u-text-1 {
   font-size: 3rem;
   font-weight: 700;
-  margin: 14px 45px 0;
+  width: 480px;
+  margin: 0 auto;
 }
 
 .u-section-3 .u-text-2 {
   font-size: 1.125rem;
-  margin: 36px 16px 0;
+  margin: 70px 16px 0;
 }
 
 .u-section-3 .u-btn-1 {
@@ -283,7 +133,7 @@
   letter-spacing: 1px;
   text-transform: uppercase;
   font-weight: 400;
-  margin: 27px 216px 0 auto;
+  margin: 0 auto;
   padding: 11px 45px;
 }
 
@@ -293,28 +143,23 @@
   }
 
   .u-section-3 .u-image-1 {
-    min-height: 475px;
+    min-height: 644px;
   }
 
   .u-section-3 .u-layout-cell-2 {
     background-position: 50% 50%;
-    min-height: 475px;
+    min-height: 644px;
   }
 
   .u-section-3 .u-text-1 {
     margin-right: 66px;
     margin-left: 70px;
-    width: 480px;
   }
 
   .u-section-3 .u-text-2 {
     margin-top: 91px;
     margin-left: 0;
     margin-right: 0;
-  }
-
-  .u-section-3 .u-btn-1 {
-    margin-right: 116px;
   }
 }
 
@@ -324,28 +169,26 @@
   }
 
   .u-section-3 .u-sheet-1 {
-    min-height: 584px;
+    min-height: 883px;
   }
 
   .u-section-3 .u-image-1 {
-    min-height: 487px;
+    min-height: 810px;
   }
 
   .u-section-3 .u-layout-cell-2 {
-    min-height: 487px;
+    min-height: 100px;
   }
 
   .u-section-3 .u-container-layout-2 {
-    padding-top: 15px;
-    padding-bottom: 15px;
+    padding-bottom: 23px;
   }
 
   .u-section-3 .u-text-1 {
     font-size: 1.875rem;
     width: auto;
-    margin-top: 29px;
+    margin-right: -24px;
     margin-left: 0;
-    margin-right: 0;
   }
 
   .u-section-3 .u-text-2 {
@@ -354,10 +197,7 @@
   }
 
   .u-section-3 .u-btn-1 {
-    font-size: 1rem;
-    margin-top: -16px;
-    margin-right: auto;
-    padding: 13px 19px 14px;
+    margin-top: 31px;
   }
 }
 
@@ -384,10 +224,6 @@
     padding-right: 44px;
   }
 
-  .u-section-3 .u-layout-cell-2 {
-    min-height: 100px;
-  }
-
   .u-section-3 .u-text-2 {
     font-size: 1rem;
     margin-top: 91px;
@@ -411,22 +247,27 @@
     padding-left: 0;
     padding-right: 0;
   }
+
+  .u-section-3 .u-text-1 {
+    margin-right: auto;
+    margin-left: auto;
+  }
 } .u-section-4 {
   min-height: 318px;
 }
 
 .u-section-4 .u-sheet-1 {
-  min-height: 854px;
+  min-height: 855px;
 }
 
 .u-section-4 .u-layout-wrap-1 {
   margin-top: 37px;
-  margin-bottom: 37px;
+  margin-bottom: 60px;
 }
 
 .u-section-4 .u-image-1 {
-  min-height: 781px;
-  background-image: url("images/affichecoupesnoopy.png");
+  min-height: 576px;
+  background-image: url("images/VACANCESDEnOEL.png");
   background-position: 50% 50%;
 }
 
@@ -436,7 +277,7 @@
 }
 
 .u-section-4 .u-layout-cell-2 {
-  min-height: 781px;
+  min-height: 576px;
 }
 
 .u-section-4 .u-container-layout-2 {
@@ -446,13 +287,12 @@
 .u-section-4 .u-text-1 {
   font-size: 3rem;
   font-weight: 700;
-  width: 480px;
-  margin: 0 auto;
+  margin: 14px 45px 0;
 }
 
 .u-section-4 .u-text-2 {
   font-size: 1.125rem;
-  margin: 35px 16px 0;
+  margin: 36px 16px 0;
 }
 
 .u-section-4 .u-btn-1 {
@@ -461,7 +301,7 @@
   letter-spacing: 1px;
   text-transform: uppercase;
   font-weight: 400;
-  margin: -12px auto 0;
+  margin: 27px 216px 0 auto;
   padding: 11px 45px;
 }
 
@@ -471,23 +311,28 @@
   }
 
   .u-section-4 .u-image-1 {
-    min-height: 644px;
+    min-height: 475px;
   }
 
   .u-section-4 .u-layout-cell-2 {
     background-position: 50% 50%;
-    min-height: 644px;
+    min-height: 475px;
   }
 
   .u-section-4 .u-text-1 {
     margin-right: 66px;
     margin-left: 70px;
+    width: 480px;
   }
 
   .u-section-4 .u-text-2 {
     margin-top: 91px;
     margin-left: 0;
     margin-right: 0;
+  }
+
+  .u-section-4 .u-btn-1 {
+    margin-right: 116px;
   }
 }
 
@@ -497,26 +342,28 @@
   }
 
   .u-section-4 .u-sheet-1 {
-    min-height: 883px;
+    min-height: 584px;
   }
 
   .u-section-4 .u-image-1 {
-    min-height: 810px;
+    min-height: 487px;
   }
 
   .u-section-4 .u-layout-cell-2 {
-    min-height: 810px;
+    min-height: 487px;
   }
 
   .u-section-4 .u-container-layout-2 {
-    padding-bottom: 23px;
+    padding-top: 15px;
+    padding-bottom: 15px;
   }
 
   .u-section-4 .u-text-1 {
     font-size: 1.875rem;
     width: auto;
-    margin-right: -24px;
+    margin-top: 29px;
     margin-left: 0;
+    margin-right: 0;
   }
 
   .u-section-4 .u-text-2 {
@@ -526,8 +373,9 @@
 
   .u-section-4 .u-btn-1 {
     font-size: 1rem;
-    margin-top: -46px;
-    padding: 10px 0;
+    margin-top: -16px;
+    margin-right: auto;
+    padding: 13px 19px 14px;
   }
 }
 
@@ -580,11 +428,6 @@
   .u-section-4 .u-container-layout-1 {
     padding-left: 0;
     padding-right: 0;
-  }
-
-  .u-section-4 .u-text-1 {
-    margin-right: auto;
-    margin-left: auto;
   }
 }.u-section-5 .u-sheet-1 {
   min-height: 654px;
