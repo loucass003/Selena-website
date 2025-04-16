@@ -684,17 +684,21 @@
   transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, image-zoom, background-size, background-position;
 }
 
-.u-section-2 .u-container-layout:hover .u-list-item-1 {
+.u-section-2 :hover > .u-container-layout .u-list-item-1 {
   transform: rotate(0deg) scale(1) translateX(0px) translateY(0px) !important;
   opacity: 1 !important;
 }
 
-.u-section-2 .u-container-layout:hover .u-list-item-1 > .u-container-layout:before {
+.u-section-2 :hover > .u-container-layout .u-list-item-1 > .u-container-layout:before {
   opacity: 1 !important;
 }
 
-.u-container-layout.hover > .u-section-2 .u-list-item-1 {
+.u-section-2 .hover > .u-container-layout .u-list-item-1 {
   transform: rotate(0deg) scale(1) translateX(0px) translateY(0px) !important;
+  opacity: 1 !important;
+}
+
+.u-section-2 .hover > .u-container-layout .u-list-item-1 > .u-container-layout:before {
   opacity: 1 !important;
 }
 
@@ -704,17 +708,21 @@
   transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, image-zoom, background-size, background-position;
 }
 
-.u-section-2 .u-container-layout:hover .u-list-item-2 {
+.u-section-2 :hover > .u-container-layout .u-list-item-2 {
   transform: rotate(0deg) scale(1) translateX(0px) translateY(0px) !important;
   opacity: 1 !important;
 }
 
-.u-section-2 .u-container-layout:hover .u-list-item-2 > .u-container-layout:before {
+.u-section-2 :hover > .u-container-layout .u-list-item-2 > .u-container-layout:before {
   opacity: 1 !important;
 }
 
-.u-container-layout.hover > .u-section-2 .u-list-item-2 {
+.u-section-2 .hover > .u-container-layout .u-list-item-2 {
   transform: rotate(0deg) scale(1) translateX(0px) translateY(0px) !important;
+  opacity: 1 !important;
+}
+
+.u-section-2 .hover > .u-container-layout .u-list-item-2 > .u-container-layout:before {
   opacity: 1 !important;
 }
 
@@ -724,17 +732,21 @@
   transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, image-zoom, background-size, background-position;
 }
 
-.u-section-2 .u-container-layout:hover .u-list-item-3 {
+.u-section-2 :hover > .u-container-layout .u-list-item-3 {
   transform: rotate(0deg) scale(1) translateX(0px) translateY(0px) !important;
   opacity: 1 !important;
 }
 
-.u-section-2 .u-container-layout:hover .u-list-item-3 > .u-container-layout:before {
+.u-section-2 :hover > .u-container-layout .u-list-item-3 > .u-container-layout:before {
   opacity: 1 !important;
 }
 
-.u-container-layout.hover > .u-section-2 .u-list-item-3 {
+.u-section-2 .hover > .u-container-layout .u-list-item-3 {
   transform: rotate(0deg) scale(1) translateX(0px) translateY(0px) !important;
+  opacity: 1 !important;
+}
+
+.u-section-2 .hover > .u-container-layout .u-list-item-3 > .u-container-layout:before {
   opacity: 1 !important;
 }
 
@@ -744,7 +756,7 @@
   transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, image-zoom, background-size, background-position;
 }
 
-.u-section-2 .u-container-layout:hover .u-text-1 {
+.u-section-2 :hover > .u-container-layout .u-text-1 {
   transform: translateX(0px) translateY(-5px) scale(1) !important;
   box-shadow: 0px 0px 0px  rgba(0,0,0,0) !important;
   text-shadow: 0px 0px 0px rgba(0,0,0,0) !important;
@@ -754,7 +766,7 @@
   border-color: transparent !important;
 }
 
-.u-container-layout.hover > .u-section-2 .u-text-1 {
+.u-section-2 .hover > .u-container-layout .u-text-1 {
   transform: translateX(0px) translateY(-5px) scale(1) !important;
   box-shadow: 0px 0px 0px  rgba(0,0,0,0) !important;
   text-shadow: 0px 0px 0px rgba(0,0,0,0) !important;
@@ -770,7 +782,7 @@
   transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, image-zoom, background-size, background-position;
 }
 
-.u-section-2 .u-container-layout:hover .u-text-3 {
+.u-section-2 :hover > .u-container-layout .u-text-3 {
   transform: translateX(0px) translateY(-5px) scale(1) !important;
   box-shadow: 0px 0px 0px  rgba(0,0,0,0) !important;
   text-shadow: 0px 0px 0px rgba(0,0,0,0) !important;
@@ -780,7 +792,7 @@
   border-color: transparent !important;
 }
 
-.u-container-layout.hover > .u-section-2 .u-text-3 {
+.u-section-2 .hover > .u-container-layout .u-text-3 {
   transform: translateX(0px) translateY(-5px) scale(1) !important;
   box-shadow: 0px 0px 0px  rgba(0,0,0,0) !important;
   text-shadow: 0px 0px 0px rgba(0,0,0,0) !important;
@@ -796,7 +808,7 @@
   transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, image-zoom, background-size, background-position;
 }
 
-.u-section-2 .u-container-layout:hover .u-text-5 {
+.u-section-2 :hover > .u-container-layout .u-text-5 {
   transform: translateX(0px) translateY(-5px) scale(1) !important;
   box-shadow: 0px 0px 0px  rgba(0,0,0,0) !important;
   text-shadow: 0px 0px 0px rgba(0,0,0,0) !important;
@@ -806,7 +818,7 @@
   border-color: transparent !important;
 }
 
-.u-container-layout.hover > .u-section-2 .u-text-5 {
+.u-section-2 .hover > .u-container-layout .u-text-5 {
   transform: translateX(0px) translateY(-5px) scale(1) !important;
   box-shadow: 0px 0px 0px  rgba(0,0,0,0) !important;
   text-shadow: 0px 0px 0px rgba(0,0,0,0) !important;
@@ -936,17 +948,21 @@
   transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, image-zoom, background-size, background-position;
 }
 
-.u-section-2 .u-container-layout:hover .u-list-item-7 {
+.u-section-2 :hover > .u-container-layout .u-list-item-7 {
   transform: rotate(0deg) scale(1) translateX(0px) translateY(0px) !important;
   opacity: 1 !important;
 }
 
-.u-section-2 .u-container-layout:hover .u-list-item-7 > .u-container-layout:before {
+.u-section-2 :hover > .u-container-layout .u-list-item-7 > .u-container-layout:before {
   opacity: 1 !important;
 }
 
-.u-container-layout.hover > .u-section-2 .u-list-item-7 {
+.u-section-2 .hover > .u-container-layout .u-list-item-7 {
   transform: rotate(0deg) scale(1) translateX(0px) translateY(0px) !important;
+  opacity: 1 !important;
+}
+
+.u-section-2 .hover > .u-container-layout .u-list-item-7 > .u-container-layout:before {
   opacity: 1 !important;
 }
 
@@ -956,17 +972,21 @@
   transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, image-zoom, background-size, background-position;
 }
 
-.u-section-2 .u-container-layout:hover .u-list-item-8 {
+.u-section-2 :hover > .u-container-layout .u-list-item-8 {
   transform: rotate(0deg) scale(1) translateX(0px) translateY(0px) !important;
   opacity: 1 !important;
 }
 
-.u-section-2 .u-container-layout:hover .u-list-item-8 > .u-container-layout:before {
+.u-section-2 :hover > .u-container-layout .u-list-item-8 > .u-container-layout:before {
   opacity: 1 !important;
 }
 
-.u-container-layout.hover > .u-section-2 .u-list-item-8 {
+.u-section-2 .hover > .u-container-layout .u-list-item-8 {
   transform: rotate(0deg) scale(1) translateX(0px) translateY(0px) !important;
+  opacity: 1 !important;
+}
+
+.u-section-2 .hover > .u-container-layout .u-list-item-8 > .u-container-layout:before {
   opacity: 1 !important;
 }
 
@@ -976,17 +996,21 @@
   transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, image-zoom, background-size, background-position;
 }
 
-.u-section-2 .u-container-layout:hover .u-list-item-9 {
+.u-section-2 :hover > .u-container-layout .u-list-item-9 {
   transform: rotate(0deg) scale(1) translateX(0px) translateY(0px) !important;
   opacity: 1 !important;
 }
 
-.u-section-2 .u-container-layout:hover .u-list-item-9 > .u-container-layout:before {
+.u-section-2 :hover > .u-container-layout .u-list-item-9 > .u-container-layout:before {
   opacity: 1 !important;
 }
 
-.u-container-layout.hover > .u-section-2 .u-list-item-9 {
+.u-section-2 .hover > .u-container-layout .u-list-item-9 {
   transform: rotate(0deg) scale(1) translateX(0px) translateY(0px) !important;
+  opacity: 1 !important;
+}
+
+.u-section-2 .hover > .u-container-layout .u-list-item-9 > .u-container-layout:before {
   opacity: 1 !important;
 }
 
@@ -996,17 +1020,21 @@
   transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, image-zoom, background-size, background-position;
 }
 
-.u-section-2 .u-container-layout:hover .u-list-item-4 {
+.u-section-2 :hover > .u-container-layout .u-list-item-4 {
   transform: rotate(0deg) scale(1) translateX(0px) translateY(0px) !important;
   opacity: 1 !important;
 }
 
-.u-section-2 .u-container-layout:hover .u-list-item-4 > .u-container-layout:before {
+.u-section-2 :hover > .u-container-layout .u-list-item-4 > .u-container-layout:before {
   opacity: 1 !important;
 }
 
-.u-container-layout.hover > .u-section-2 .u-list-item-4 {
+.u-section-2 .hover > .u-container-layout .u-list-item-4 {
   transform: rotate(0deg) scale(1) translateX(0px) translateY(0px) !important;
+  opacity: 1 !important;
+}
+
+.u-section-2 .hover > .u-container-layout .u-list-item-4 > .u-container-layout:before {
   opacity: 1 !important;
 }
 
@@ -1016,17 +1044,21 @@
   transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, image-zoom, background-size, background-position;
 }
 
-.u-section-2 .u-container-layout:hover .u-list-item-5 {
+.u-section-2 :hover > .u-container-layout .u-list-item-5 {
   transform: rotate(0deg) scale(1) translateX(0px) translateY(0px) !important;
   opacity: 1 !important;
 }
 
-.u-section-2 .u-container-layout:hover .u-list-item-5 > .u-container-layout:before {
+.u-section-2 :hover > .u-container-layout .u-list-item-5 > .u-container-layout:before {
   opacity: 1 !important;
 }
 
-.u-container-layout.hover > .u-section-2 .u-list-item-5 {
+.u-section-2 .hover > .u-container-layout .u-list-item-5 {
   transform: rotate(0deg) scale(1) translateX(0px) translateY(0px) !important;
+  opacity: 1 !important;
+}
+
+.u-section-2 .hover > .u-container-layout .u-list-item-5 > .u-container-layout:before {
   opacity: 1 !important;
 }
 
@@ -1036,17 +1068,21 @@
   transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, image-zoom, background-size, background-position;
 }
 
-.u-section-2 .u-container-layout:hover .u-list-item-6 {
+.u-section-2 :hover > .u-container-layout .u-list-item-6 {
   transform: rotate(0deg) scale(1) translateX(0px) translateY(0px) !important;
   opacity: 1 !important;
 }
 
-.u-section-2 .u-container-layout:hover .u-list-item-6 > .u-container-layout:before {
+.u-section-2 :hover > .u-container-layout .u-list-item-6 > .u-container-layout:before {
   opacity: 1 !important;
 }
 
-.u-container-layout.hover > .u-section-2 .u-list-item-6 {
+.u-section-2 .hover > .u-container-layout .u-list-item-6 {
   transform: rotate(0deg) scale(1) translateX(0px) translateY(0px) !important;
+  opacity: 1 !important;
+}
+
+.u-section-2 .hover > .u-container-layout .u-list-item-6 > .u-container-layout:before {
   opacity: 1 !important;
 }
 
@@ -1176,7 +1212,7 @@
   transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, image-zoom, background-size, background-position;
 }
 
-.u-section-2 .u-container-layout:hover .u-text-7 {
+.u-section-2 :hover > .u-container-layout .u-text-7 {
   transform: translateX(0px) translateY(-5px) scale(1) !important;
   box-shadow: 0px 0px 0px  rgba(0,0,0,0) !important;
   text-shadow: 0px 0px 0px rgba(0,0,0,0) !important;
@@ -1186,7 +1222,7 @@
   border-color: transparent !important;
 }
 
-.u-container-layout.hover > .u-section-2 .u-text-7 {
+.u-section-2 .hover > .u-container-layout .u-text-7 {
   transform: translateX(0px) translateY(-5px) scale(1) !important;
   box-shadow: 0px 0px 0px  rgba(0,0,0,0) !important;
   text-shadow: 0px 0px 0px rgba(0,0,0,0) !important;
@@ -1228,7 +1264,7 @@
   transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, image-zoom, background-size, background-position;
 }
 
-.u-section-2 .u-container-layout:hover .u-text-9 {
+.u-section-2 :hover > .u-container-layout .u-text-9 {
   transform: translateX(0px) translateY(-5px) scale(1) !important;
   box-shadow: 0px 0px 0px  rgba(0,0,0,0) !important;
   text-shadow: 0px 0px 0px rgba(0,0,0,0) !important;
@@ -1238,7 +1274,7 @@
   border-color: transparent !important;
 }
 
-.u-container-layout.hover > .u-section-2 .u-text-9 {
+.u-section-2 .hover > .u-container-layout .u-text-9 {
   transform: translateX(0px) translateY(-5px) scale(1) !important;
   box-shadow: 0px 0px 0px  rgba(0,0,0,0) !important;
   text-shadow: 0px 0px 0px rgba(0,0,0,0) !important;
@@ -1280,7 +1316,7 @@
   transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, image-zoom, background-size, background-position;
 }
 
-.u-section-2 .u-container-layout:hover .u-text-11 {
+.u-section-2 :hover > .u-container-layout .u-text-11 {
   transform: translateX(0px) translateY(-5px) scale(1) !important;
   box-shadow: 0px 0px 0px  rgba(0,0,0,0) !important;
   text-shadow: 0px 0px 0px rgba(0,0,0,0) !important;
@@ -1290,7 +1326,7 @@
   border-color: transparent !important;
 }
 
-.u-container-layout.hover > .u-section-2 .u-text-11 {
+.u-section-2 .hover > .u-container-layout .u-text-11 {
   transform: translateX(0px) translateY(-5px) scale(1) !important;
   box-shadow: 0px 0px 0px  rgba(0,0,0,0) !important;
   text-shadow: 0px 0px 0px rgba(0,0,0,0) !important;
@@ -1644,7 +1680,7 @@
   transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, image-zoom, background-size, background-position;
 }
 
-.u-section-2 .u-container-layout:hover .u-text-16 {
+.u-section-2 :hover > .u-container-layout .u-text-16 {
   transform: translateX(0px) translateY(-5px) scale(1) !important;
   box-shadow: 0px 0px 0px  rgba(0,0,0,0) !important;
   text-shadow: 0px 0px 0px rgba(0,0,0,0) !important;
@@ -1654,7 +1690,7 @@
   border-color: transparent !important;
 }
 
-.u-container-layout.hover > .u-section-2 .u-text-16 {
+.u-section-2 .hover > .u-container-layout .u-text-16 {
   transform: translateX(0px) translateY(-5px) scale(1) !important;
   box-shadow: 0px 0px 0px  rgba(0,0,0,0) !important;
   text-shadow: 0px 0px 0px rgba(0,0,0,0) !important;
@@ -1670,7 +1706,7 @@
   transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, image-zoom, background-size, background-position;
 }
 
-.u-section-2 .u-container-layout:hover .u-text-17 {
+.u-section-2 :hover > .u-container-layout .u-text-17 {
   box-shadow: 0px 0px 0px  rgba(0,0,0,0) !important;
   transform: translateX(0px) translateY(-5px) scale(1) !important;
   text-shadow: 0px 0px 0px rgba(0,0,0,0) !important;
@@ -1680,7 +1716,7 @@
   border-color: transparent !important;
 }
 
-.u-container-layout.hover > .u-section-2 .u-text-17 {
+.u-section-2 .hover > .u-container-layout .u-text-17 {
   box-shadow: 0px 0px 0px  rgba(0,0,0,0) !important;
   transform: translateX(0px) translateY(-5px) scale(1) !important;
   text-shadow: 0px 0px 0px rgba(0,0,0,0) !important;
@@ -1718,7 +1754,7 @@
   transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, image-zoom, background-size, background-position;
 }
 
-.u-section-2 .u-container-layout:hover .u-text-14 {
+.u-section-2 :hover > .u-container-layout .u-text-14 {
   transform: translateX(0px) translateY(-5px) scale(1) !important;
   box-shadow: 0px 0px 0px  rgba(0,0,0,0) !important;
   text-shadow: 0px 0px 0px rgba(0,0,0,0) !important;
@@ -1728,7 +1764,7 @@
   border-color: transparent !important;
 }
 
-.u-container-layout.hover > .u-section-2 .u-text-14 {
+.u-section-2 .hover > .u-container-layout .u-text-14 {
   transform: translateX(0px) translateY(-5px) scale(1) !important;
   box-shadow: 0px 0px 0px  rgba(0,0,0,0) !important;
   text-shadow: 0px 0px 0px rgba(0,0,0,0) !important;
@@ -1744,7 +1780,7 @@
   transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, image-zoom, background-size, background-position;
 }
 
-.u-section-2 .u-container-layout:hover .u-text-15 {
+.u-section-2 :hover > .u-container-layout .u-text-15 {
   box-shadow: 0px 0px 0px  rgba(0,0,0,0) !important;
   transform: translateX(0px) translateY(-5px) scale(1) !important;
   text-shadow: 0px 0px 0px rgba(0,0,0,0) !important;
@@ -1754,7 +1790,7 @@
   border-color: transparent !important;
 }
 
-.u-container-layout.hover > .u-section-2 .u-text-15 {
+.u-section-2 .hover > .u-container-layout .u-text-15 {
   box-shadow: 0px 0px 0px  rgba(0,0,0,0) !important;
   transform: translateX(0px) translateY(-5px) scale(1) !important;
   text-shadow: 0px 0px 0px rgba(0,0,0,0) !important;
@@ -1770,7 +1806,7 @@
   transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, image-zoom, background-size, background-position;
 }
 
-.u-section-2 .u-container-layout:hover .u-text-18 {
+.u-section-2 :hover > .u-container-layout .u-text-18 {
   transform: translateX(0px) translateY(-5px) scale(1) !important;
   box-shadow: 0px 0px 0px  rgba(0,0,0,0) !important;
   text-shadow: 0px 0px 0px rgba(0,0,0,0) !important;
@@ -1780,7 +1816,7 @@
   border-color: transparent !important;
 }
 
-.u-container-layout.hover > .u-section-2 .u-text-18 {
+.u-section-2 .hover > .u-container-layout .u-text-18 {
   transform: translateX(0px) translateY(-5px) scale(1) !important;
   box-shadow: 0px 0px 0px  rgba(0,0,0,0) !important;
   text-shadow: 0px 0px 0px rgba(0,0,0,0) !important;
@@ -1796,7 +1832,7 @@
   transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, image-zoom, background-size, background-position;
 }
 
-.u-section-2 .u-container-layout:hover .u-text-19 {
+.u-section-2 :hover > .u-container-layout .u-text-19 {
   box-shadow: 0px 0px 0px  rgba(0,0,0,0) !important;
   transform: translateX(0px) translateY(-5px) scale(1) !important;
   text-shadow: 0px 0px 0px rgba(0,0,0,0) !important;
@@ -1806,7 +1842,7 @@
   border-color: transparent !important;
 }
 
-.u-container-layout.hover > .u-section-2 .u-text-19 {
+.u-section-2 .hover > .u-container-layout .u-text-19 {
   box-shadow: 0px 0px 0px  rgba(0,0,0,0) !important;
   transform: translateX(0px) translateY(-5px) scale(1) !important;
   text-shadow: 0px 0px 0px rgba(0,0,0,0) !important;
