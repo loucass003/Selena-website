@@ -147,9 +147,10 @@
 }
 
 .u-section-3 .u-repeater-1 {
-  grid-template-columns: calc(50% - 10px) calc(50% - 10px);
+  grid-template-columns: repeat(2, calc(50% - 10px));
   min-height: 341px;
-  grid-gap: 20px;
+  --gap: 20px;
+  grid-auto-columns: calc(50% - 10px);
 }
 
 .u-section-3 .u-list-item-1 {
@@ -228,9 +229,10 @@
 }
 
 .u-section-3 .u-repeater-2 {
-  grid-template-columns: calc(33.3333% - 14px) calc(33.3333% - 14px) calc(33.3333% - 14px);
+  grid-template-columns: repeat(3, calc(33.3333% - 14px));
   min-height: 240px;
-  grid-gap: 21px;
+  --gap: 21px;
+  grid-auto-columns: calc(33.3333% - 14px);
 }
 
 .u-section-3 .u-list-item-3 {
@@ -368,7 +370,9 @@
   }
 
   .u-section-3 .u-repeater-1 {
+    grid-template-columns: calc(50% - 10px) calc(50% - 10px);
     min-height: 156px;
+    grid-gap: 20px;
   }
 
   .u-section-3 .u-text-4 {
@@ -395,7 +399,9 @@
 
   .u-section-3 .u-repeater-2 {
     grid-template-columns: repeat(3, calc(33.333333333333336% - 14px));
-    min-height: 193px;
+    min-height: 197px;
+    grid-gap: 21px;
+    grid-auto-columns: calc(33.333333333333336% - 14px);
   }
 
   .u-section-3 .u-text-7 {
@@ -460,6 +466,7 @@
 
   .u-section-3 .u-repeater-1 {
     min-height: 158px;
+    grid-auto-columns: calc(100% - 0px);
   }
 
   .u-section-3 .u-container-layout-2 {
@@ -493,6 +500,7 @@
   .u-section-3 .u-repeater-2 {
     grid-template-columns: repeat(2, calc(50% - 10.5px));
     min-height: 474px;
+    grid-auto-columns: calc(50% - 10.5px);
   }
 
   .u-section-3 .u-layout-cell-4 {
@@ -537,6 +545,7 @@
 
   .u-section-3 .u-repeater-1 {
     min-height: 157px;
+    grid-auto-columns: 100%;
   }
 
   .u-section-3 .u-container-layout-2 {
@@ -568,6 +577,7 @@
   .u-section-3 .u-repeater-2 {
     grid-template-columns: 100%;
     min-height: 617px;
+    grid-auto-columns: calc(100% - 0px);
   }
 
   .u-section-3 .u-layout-cell-4 {
@@ -637,6 +647,10 @@
   .u-section-3 .u-container-layout-5 {
     padding-left: 0;
     padding-right: 0;
+  }
+
+  .u-section-3 .u-repeater-2 {
+    grid-auto-columns: 100%;
   }
 
   .u-section-3 .u-container-layout-9 {
