@@ -107,11 +107,18 @@
     height: 436px;
   }
 } .u-section-3 {
-  background-image: url("images/COUPERGIONALEDEROANNE.jpg");
+  filter: none;
 }
 
 .u-section-3 .u-sheet-1 {
-  min-height: 1735px;
+  min-height: 1180px;
+}
+
+.u-section-3 .u-image-1 {
+  filter: none;
+  width: 730px;
+  height: 1032px;
+  margin: 60px auto;
 }
 
 @media (max-width: 1199px) {
@@ -124,17 +131,32 @@
   .u-section-3 .u-sheet-1 {
     min-height: 916px;
   }
+
+  .u-section-3 .u-image-1 {
+    width: 720px;
+    height: 1018px;
+  }
 }
 
 @media (max-width: 767px) {
   .u-section-3 .u-sheet-1 {
     min-height: 1506px;
   }
+
+  .u-section-3 .u-image-1 {
+    width: 540px;
+    height: 764px;
+  }
 }
 
 @media (max-width: 575px) {
   .u-section-3 .u-sheet-1 {
     min-height: 833px;
+  }
+
+  .u-section-3 .u-image-1 {
+    width: 340px;
+    height: 481px;
   }
 }.u-section-4 .u-sheet-1 {
   min-height: 888px;
