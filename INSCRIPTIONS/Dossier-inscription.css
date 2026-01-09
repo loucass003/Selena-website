@@ -341,6 +341,18 @@
 }
 
 @media (max-width: 1199px) {
+  .u-section-10 .u-carousel-item-1 {
+    margin-right: initial;
+  }
+
+  .u-section-10 .u-carousel-item-2 {
+    margin-right: initial;
+  }
+
+  .u-section-10 .u-carousel-item-3 {
+    margin-right: initial;
+  }
+
   .u-section-10 .u-text-1 {
     transition-duration: 0.5s;
   }
