@@ -118,6 +118,7 @@
 
 .u-section-2 .u-text-3 {
   font-size: 1.25rem;
+  font-weight: 400;
   margin: 14px auto 0;
 }
 
@@ -145,6 +146,7 @@
 
 .u-section-2 .u-text-5 {
   font-size: 1.25rem;
+  font-weight: 400;
   margin: 14px auto 0;
 }
 
@@ -173,6 +175,7 @@
 
 .u-section-2 .u-text-7 {
   font-size: 1.25rem;
+  font-weight: 400;
   margin: 14px auto 0;
 }
 
@@ -199,7 +202,6 @@
   }
 
   .u-section-2 .u-text-3 {
-    font-weight: 400;
     width: auto;
   }
 
@@ -210,7 +212,6 @@
   }
 
   .u-section-2 .u-text-5 {
-    font-weight: 400;
     width: auto;
   }
 
@@ -221,7 +222,6 @@
   }
 
   .u-section-2 .u-text-7 {
-    font-weight: 400;
     width: auto;
   }
 }
