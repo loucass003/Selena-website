@@ -81,10 +81,14 @@
   }
 
   .u-section-1 .u-text-1 {
+    font-size: 2.25rem;
+    margin-top: 0;
     margin-right: 175px;
   }
 
   .u-section-1 .u-text-2 {
+    font-size: 0.875rem;
+    margin-top: 0;
     margin-right: 0;
   }
 } .u-section-2 {
