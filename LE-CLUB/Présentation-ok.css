@@ -190,6 +190,10 @@
   .u-section-2 .u-layout-cell-1 {
     min-height: 920px;
   }
+
+  .u-section-2 .u-text-3 {
+    font-size: 1.1111111111111112rem;
+  }
 }
 
 @media (max-width: 575px) {
