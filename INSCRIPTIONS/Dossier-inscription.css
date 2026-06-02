@@ -663,12 +663,11 @@
     width: auto;
   }
 }.u-section-4 .u-sheet-1 {
-  min-height: 168px;
+  min-height: 200px;
 }
 
 .u-section-4 .u-text-1 {
-  margin-bottom: 20px;
-  margin-top: 20px;
+  margin: 36px 0;
 }
 
 .u-section-4 .u-btn-1 {

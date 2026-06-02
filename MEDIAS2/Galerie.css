@@ -1,5 +1,5 @@
  .u-section-1 {
-  background-image: url("../images/1N5A1379.jpg");
+  background-image: url("../images/ChatGPTImage2juin202617_42_55.png");
   background-position: 50% 50%;
 }
 
@@ -21,6 +21,7 @@
   margin-left: 0;
   margin-right: 381px;
   margin-bottom: 60px;
+  font-size: 1rem;
 }
 
 @media (max-width: 1199px) {
@@ -64,11 +65,17 @@
 
 @media (max-width: 575px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 170px;
+    min-height: 219px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 2rem;
+    margin-top: 8px;
   }
 
   .u-section-1 .u-text-2 {
     font-size: 0.75rem;
+    margin-top: 14px;
   }
 }.u-section-2 .u-sheet-1 {
   min-height: 770px;

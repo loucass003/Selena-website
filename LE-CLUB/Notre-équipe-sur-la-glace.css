@@ -1,10 +1,10 @@
  .u-section-1 {
-  background-image: url("../images/1N5A1379.jpg");
+  background-image: url("../images/ChatGPTImage2juin202623_01_34.png");
   background-position: 50% 50%;
 }
 
 .u-section-1 .u-sheet-1 {
-  min-height: 370px;
+  min-height: 576px;
 }
 
 .u-section-1 .u-text-1 {
@@ -27,7 +27,7 @@
 
 @media (max-width: 1199px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 305px;
+    min-height: 475px;
   }
 
   .u-section-1 .u-text-1 {
@@ -58,6 +58,10 @@
 }
 
 @media (max-width: 767px) {
+   .u-section-1 {
+    background-position: 50% 50%;
+  }
+
   .u-section-1 .u-sheet-1 {
     min-height: 213px;
   }
@@ -65,7 +69,7 @@
 
 @media (max-width: 575px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 170px;
+    min-height: 208px;
   }
 
   .u-section-1 .u-text-1 {
