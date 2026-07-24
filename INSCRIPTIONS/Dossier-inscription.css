@@ -309,6 +309,9 @@
 @media (max-width: 575px) {
   .u-section-3 .u-text-1 {
     font-size: 1.875rem;
+    width: auto;
+    margin-top: 45px;
+    margin-right: 0;
   }
 
   .u-section-3 .u-btn-1 {
