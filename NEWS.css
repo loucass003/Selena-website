@@ -91,21 +91,126 @@
     margin-top: 0;
     margin-right: 0;
   }
-} .u-section-2 {
+}.u-section-2 .u-sheet-1 {
+  min-height: 863px;
+}
+
+.u-section-2 .u-layout-wrap-1 {
+  margin-top: 60px;
+  margin-bottom: 15px;
+}
+
+.u-section-2 .u-image-1 {
+  min-height: 788px;
+  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0.25)), url('images/Capturedcran2026-07-24124051.png');
+  background-position: 50% 50%;
+}
+
+.u-section-2 .u-container-layout-1 {
+  padding: 30px 60px;
+}
+
+.u-section-2 .u-layout-cell-2 {
+  min-height: 788px;
+}
+
+.u-section-2 .u-container-layout-2 {
+  padding: 30px 55px;
+}
+
+.u-section-2 .u-text-1 {
+  margin: 8px 45px 0 auto;
+}
+
+.u-section-2 .u-text-2 {
+  margin: 93px 0 0 10px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 722px;
+  }
+
+  .u-section-2 .u-image-1 {
+    min-height: 650px;
+  }
+
+  .u-section-2 .u-layout-cell-2 {
+    min-height: 650px;
+  }
+
+  .u-section-2 .u-text-2 {
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 612px;
+  }
+
+  .u-section-2 .u-image-1 {
+    min-height: 498px;
+  }
+
+  .u-section-2 .u-container-layout-1 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+
+  .u-section-2 .u-layout-cell-2 {
+    min-height: 100px;
+  }
+
+  .u-section-2 .u-container-layout-2 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 893px;
+  }
+
+  .u-section-2 .u-image-1 {
+    min-height: 747px;
+  }
+
+  .u-section-2 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-2 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 692px;
+  }
+
+  .u-section-2 .u-image-1 {
+    min-height: 470px;
+  }
+} .u-section-3 {
   filter: none;
   background-image: none;
 }
 
-.u-section-2 .u-sheet-1 {
+.u-section-3 .u-sheet-1 {
   min-height: 786px;
 }
 
-.u-section-2 .u-text-1 {
+.u-section-3 .u-text-1 {
   font-size: 2.25rem;
   margin: 66px auto 0 0;
 }
 
-.u-section-2 .u-btn-1 {
+.u-section-3 .u-btn-1 {
   --radius: 50px;
   font-weight: 700;
   text-transform: uppercase;
@@ -114,7 +219,7 @@
   margin: 175px 194px 0 auto;
 }
 
-.u-section-2 .u-image-1 {
+.u-section-3 .u-image-1 {
   filter: none;
   width: 459px;
   height: 602px;
@@ -122,30 +227,30 @@
 }
 
 @media (max-width: 1199px) {
-  .u-section-2 .u-btn-1 {
+  .u-section-3 .u-btn-1 {
     margin-right: 0;
   }
 
-  .u-section-2 .u-image-1 {
+  .u-section-3 .u-image-1 {
     inset: auto;
   }
 }
 
 @media (max-width: 991px) {
-  .u-section-2 .u-sheet-1 {
+  .u-section-3 .u-sheet-1 {
     min-height: 939px;
   }
 
-  .u-section-2 .u-text-1 {
+  .u-section-3 .u-text-1 {
     font-size: 1.875rem;
   }
 
-  .u-section-2 .u-btn-1 {
+  .u-section-3 .u-btn-1 {
     margin-right: 24px;
     padding: 10px;
   }
 
-  .u-section-2 .u-image-1 {
+  .u-section-3 .u-image-1 {
     width: 418px;
     height: 549px;
     margin-top: -200px;
@@ -154,33 +259,33 @@
 }
 
 @media (max-width: 767px) {
-  .u-section-2 .u-btn-1 {
+  .u-section-3 .u-btn-1 {
     margin-right: 0;
   }
 
-  .u-section-2 .u-image-1 {
+  .u-section-3 .u-image-1 {
     margin-top: 20px;
     margin-bottom: 30px;
   }
 }
 
 @media (max-width: 575px) {
-  .u-section-2 .u-sheet-1 {
+  .u-section-3 .u-sheet-1 {
     min-height: 678px;
   }
 
-  .u-section-2 .u-text-1 {
+  .u-section-3 .u-text-1 {
     font-size: 0.875rem;
     margin-top: 32px;
   }
 
-  .u-section-2 .u-btn-1 {
+  .u-section-3 .u-btn-1 {
     font-size: 0.75rem;
     margin-top: 521px;
     margin-right: auto;
   }
 
-  .u-section-2 .u-image-1 {
+  .u-section-3 .u-image-1 {
     height: 428px;
     margin-top: -536px;
     margin-bottom: 60px;
